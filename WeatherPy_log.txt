@@ -1,0 +1,5824 @@
+
+-------------------------
+city number:1
+city name: hermanus
+latitude:-34.42
+longitude:19.24
+temperature: 46.85
+humidity: 100
+cloudiness: 44
+wind speed: 2.73
+-------------------------
+city number:2
+city name: te anau
+latitude:-45.41
+longitude:167.72
+temperature: 43.07
+humidity: 96
+cloudiness: 0
+wind speed: 3.62
+-------------------------
+city number:3
+city name: ilinskiy
+latitude:55.62
+longitude:38.12
+temperature: 64.4
+humidity: 77
+cloudiness: 0
+wind speed: 6.71
+-------------------------
+city number:4
+city name: bernay
+latitude:49.09
+longitude:0.6
+temperature: 68
+humidity: 93
+cloudiness: 8
+wind speed: 2.24
+-------------------------
+city number:5
+city name: pangai
+latitude:-19.8
+longitude:-174.35
+temperature: 72.68
+humidity: 100
+cloudiness: 44
+wind speed: 16.26
+-------------------------
+city number:6
+city name: naze
+latitude:5.43
+longitude:7.07
+temperature: 77
+humidity: 88
+cloudiness: 40
+wind speed: 5.75
+-------------------------
+city number:7
+city name: dunedin
+latitude:-45.87
+longitude:170.5
+temperature: 43.07
+humidity: 93
+cloudiness: 36
+wind speed: 4.07
+-------------------------
+city number:8
+city name: berdigestyakh
+latitude:62.1
+longitude:126.7
+temperature: 54.41
+humidity: 84
+cloudiness: 24
+wind speed: 10.11
+-------------------------
+city number:9
+city name: yar-sale
+latitude:66.83
+longitude:70.83
+temperature: 42.53
+humidity: 100
+cloudiness: 0
+wind speed: 22.08
+-------------------------
+city number:10
+city name: ponta do sol
+latitude:-20.63
+longitude:-46
+temperature: 63.23
+humidity: 86
+cloudiness: 20
+wind speed: 6.2
+-------------------------
+city number:11
+city name: rikitea
+latitude:-23.12
+longitude:-134.97
+temperature: 74.21
+humidity: 100
+cloudiness: 92
+wind speed: 12.12
+-------------------------
+city number:12
+city name: avarua
+latitude:-21.21
+longitude:-159.78
+temperature: 75.2
+humidity: 94
+cloudiness: 75
+wind speed: 13.87
+-------------------------
+city number:13
+city name: poum
+latitude:41.28
+longitude:20.71
+temperature: 55.49
+humidity: 91
+cloudiness: 0
+wind speed: 1.72
+-------------------------
+city number:14
+city name: balkanabat
+latitude:39.51
+longitude:54.36
+temperature: 79.34
+humidity: 32
+cloudiness: 32
+wind speed: 2.73
+-------------------------
+city number:15
+city name: albany
+latitude:42.65
+longitude:-73.75
+temperature: 80.6
+humidity: 73
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:16
+city name: mumbwa
+latitude:-14.99
+longitude:27.06
+temperature: 56.75
+humidity: 55
+cloudiness: 0
+wind speed: 9.89
+-------------------------
+city number:17
+city name: tiksi
+latitude:71.64
+longitude:128.87
+temperature: 58.1
+humidity: 74
+cloudiness: 20
+wind speed: 10.67
+-------------------------
+city number:18
+city name: tual
+latitude:-5.67
+longitude:132.75
+temperature: 78.98
+humidity: 99
+cloudiness: 88
+wind speed: 13.47
+-------------------------
+city number:19
+city name: shambu
+latitude:9.57
+longitude:37.1
+temperature: 55.13
+humidity: 95
+cloudiness: 92
+wind speed: 2.62
+-------------------------
+city number:20
+city name: clyde river
+latitude:70.47
+longitude:-68.59
+temperature: 55.4
+humidity: 47
+cloudiness: 1
+wind speed: 11.41
+-------------------------
+city number:21
+city name: sechura
+latitude:-5.56
+longitude:-80.82
+temperature: 75.2
+humidity: 60
+cloudiness: 20
+wind speed: 19.46
+-------------------------
+city number:22
+city name: norman wells
+latitude:65.28
+longitude:-126.83
+temperature: 64.4
+humidity: 72
+cloudiness: 90
+wind speed: 10.29
+-------------------------
+city number:23
+city name: punta arenas
+latitude:-53.16
+longitude:-70.91
+temperature: 32
+humidity: 99
+cloudiness: 0
+wind speed: 16.11
+-------------------------
+city number:24
+city name: arraial do cabo
+latitude:-22.97
+longitude:-42.02
+temperature: 69.8
+humidity: 88
+cloudiness: 20
+wind speed: 8.05
+-------------------------
+city number:25
+city name: vila velha
+latitude:-3.71
+longitude:-38.6
+temperature: 78.8
+humidity: 78
+cloudiness: 0
+wind speed: 8.05
+-------------------------
+city number:26
+city name: severo-kurilsk
+latitude:50.68
+longitude:156.12
+temperature: 54.77
+humidity: 93
+cloudiness: 8
+wind speed: 4.63
+-------------------------
+city number:27
+city name: katsuura
+latitude:33.93
+longitude:134.5
+temperature: 84.2
+humidity: 79
+cloudiness: 20
+wind speed: 3.36
+-------------------------
+city number:28
+city name: new norfolk
+latitude:-42.78
+longitude:147.06
+temperature: 53.6
+humidity: 76
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:29
+city name: ribeira grande
+latitude:38.52
+longitude:-28.7
+temperature: 74.21
+humidity: 100
+cloudiness: 100
+wind speed: 8.21
+-------------------------
+city number:30
+city name: puerto ayora
+latitude:-0.74
+longitude:-90.35
+temperature: 75.2
+humidity: 69
+cloudiness: 75
+wind speed: 13.87
+-------------------------
+city number:31
+city name: klaksvik
+latitude:62.23
+longitude:-6.59
+temperature: 50
+humidity: 81
+cloudiness: 80
+wind speed: 12.75
+-------------------------
+city number:32
+city name: saskylakh
+latitude:71.97
+longitude:114.09
+temperature: 52.07
+humidity: 69
+cloudiness: 0
+wind speed: 16.26
+-------------------------
+city number:33
+city name: taolanaro
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:34
+city name: dikson
+latitude:73.51
+longitude:80.55
+temperature: 44.33
+humidity: 92
+cloudiness: 24
+wind speed: 11.79
+-------------------------
+city number:35
+city name: barawe
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:36
+city name: provideniya
+latitude:64.42
+longitude:-173.23
+temperature: 47.03
+humidity: 100
+cloudiness: 92
+wind speed: 20.4
+-------------------------
+city number:37
+city name: alpena
+latitude:45.06
+longitude:-83.43
+temperature: 84.2
+humidity: 58
+cloudiness: 1
+wind speed: 12.75
+-------------------------
+city number:38
+city name: mataura
+latitude:-46.19
+longitude:168.86
+temperature: 45.14
+humidity: 82
+cloudiness: 36
+wind speed: 4.29
+-------------------------
+city number:39
+city name: atuona
+latitude:-9.8
+longitude:-139.03
+temperature: 79.34
+humidity: 100
+cloudiness: 24
+wind speed: 18.95
+-------------------------
+city number:40
+city name: santa cruz cabralia
+latitude:-16.28
+longitude:-39.02
+temperature: 73.4
+humidity: 83
+cloudiness: 0
+wind speed: 8.05
+-------------------------
+city number:41
+city name: corozal
+latitude:18.39
+longitude:-88.39
+temperature: 86
+humidity: 62
+cloudiness: 40
+wind speed: 16.11
+-------------------------
+city number:42
+city name: nikolskoye
+latitude:59.7
+longitude:30.79
+temperature: 66.2
+humidity: 72
+cloudiness: 20
+wind speed: 2.24
+-------------------------
+city number:43
+city name: batagay
+latitude:67.65
+longitude:134.64
+temperature: 69.62
+humidity: 63
+cloudiness: 24
+wind speed: 4.18
+-------------------------
+city number:44
+city name: dingle
+latitude:11
+longitude:122.67
+temperature: 76.82
+humidity: 96
+cloudiness: 92
+wind speed: 11.56
+-------------------------
+city number:45
+city name: torbay
+latitude:47.66
+longitude:-52.73
+temperature: 55.4
+humidity: 87
+cloudiness: 75
+wind speed: 9.17
+-------------------------
+city number:46
+city name: kosya
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:47
+city name: matagami
+latitude:9.67
+longitude:8.4
+temperature: 68.45
+humidity: 98
+cloudiness: 92
+wind speed: 3.06
+-------------------------
+city number:48
+city name: noormarkku
+latitude:61.59
+longitude:21.87
+temperature: 60.8
+humidity: 87
+cloudiness: 24
+wind speed: 4.7
+-------------------------
+city number:49
+city name: port alfred
+latitude:-33.59
+longitude:26.89
+temperature: 61.52
+humidity: 86
+cloudiness: 0
+wind speed: 22.19
+-------------------------
+city number:50
+city name: mount isa
+latitude:-20.73
+longitude:139.49
+temperature: 68
+humidity: 34
+cloudiness: 0
+wind speed: 8.43
+-------------------------
+city number:51
+city name: bambous virieux
+latitude:-20.34
+longitude:57.76
+temperature: 71.6
+humidity: 73
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:52
+city name: port hardy
+latitude:50.7
+longitude:-127.42
+temperature: 71.6
+humidity: 56
+cloudiness: 75
+wind speed: 3.36
+-------------------------
+city number:53
+city name: port elizabeth
+latitude:39.31
+longitude:-74.98
+temperature: 86
+humidity: 69
+cloudiness: 1
+wind speed: 6.93
+-------------------------
+city number:54
+city name: southbridge
+latitude:42.08
+longitude:-72.03
+temperature: 80.6
+humidity: 88
+cloudiness: 40
+wind speed: 2.28
+-------------------------
+city number:55
+city name: saint-pierre
+latitude:48.95
+longitude:4.24
+temperature: 75.2
+humidity: 68
+cloudiness: 0
+wind speed: 13.87
+-------------------------
+city number:56
+city name: sentyabrskiy
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:57
+city name: bom jesus
+latitude:-9.08
+longitude:-44.36
+temperature: 77.81
+humidity: 32
+cloudiness: 0
+wind speed: 8.88
+-------------------------
+city number:58
+city name: ushuaia
+latitude:-54.81
+longitude:-68.31
+temperature: 35.6
+humidity: 80
+cloudiness: 40
+wind speed: 32.21
+-------------------------
+city number:59
+city name: busselton
+latitude:-33.64
+longitude:115.35
+temperature: 56.66
+humidity: 100
+cloudiness: 68
+wind speed: 21.74
+-------------------------
+city number:60
+city name: maromitsa
+latitude:59.87
+longitude:48.01
+temperature: 51.98
+humidity: 88
+cloudiness: 0
+wind speed: 2.28
+-------------------------
+city number:61
+city name: gurgan
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:62
+city name: ahuimanu
+latitude:21.44
+longitude:-157.84
+temperature: 87.8
+humidity: 70
+cloudiness: 75
+wind speed: 16.11
+-------------------------
+city number:63
+city name: puerto escondido
+latitude:15.86
+longitude:-97.07
+temperature: 82.4
+humidity: 74
+cloudiness: 90
+wind speed: 11.41
+-------------------------
+city number:64
+city name: faanui
+latitude:-16.48
+longitude:-151.75
+temperature: 79.61
+humidity: 100
+cloudiness: 36
+wind speed: 16.82
+-------------------------
+city number:65
+city name: hasaki
+latitude:35.73
+longitude:140.83
+temperature: 86
+humidity: 79
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:66
+city name: souillac
+latitude:45.6
+longitude:-0.6
+temperature: 80.6
+humidity: 47
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:67
+city name: fortuna
+latitude:38.18
+longitude:-1.13
+temperature: 78.8
+humidity: 69
+cloudiness: 0
+wind speed: 2.24
+-------------------------
+city number:68
+city name: hilo
+latitude:19.71
+longitude:-155.08
+temperature: 80.6
+humidity: 78
+cloudiness: 90
+wind speed: 8.05
+-------------------------
+city number:69
+city name: umm kaddadah
+latitude:13.6
+longitude:26.69
+temperature: 68.18
+humidity: 98
+cloudiness: 36
+wind speed: 3.06
+-------------------------
+city number:70
+city name: victoria
+latitude:5.28
+longitude:115.24
+temperature: 80.6
+humidity: 94
+cloudiness: 75
+wind speed: 1.12
+-------------------------
+city number:71
+city name: tam ky
+latitude:15.57
+longitude:108.48
+temperature: 78.8
+humidity: 83
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:72
+city name: pattani
+latitude:6.87
+longitude:101.25
+temperature: 78.35
+humidity: 85
+cloudiness: 44
+wind speed: 3.96
+-------------------------
+city number:73
+city name: cartagena
+latitude:37.63
+longitude:-1
+temperature: 78.8
+humidity: 69
+cloudiness: 0
+wind speed: 2.24
+-------------------------
+city number:74
+city name: inirida
+latitude:3.87
+longitude:-67.92
+temperature: 78.8
+humidity: 84
+cloudiness: 8
+wind speed: 2.28
+-------------------------
+city number:75
+city name: rocha
+latitude:-34.48
+longitude:-54.34
+temperature: 50.45
+humidity: 95
+cloudiness: 48
+wind speed: 10.45
+-------------------------
+city number:76
+city name: imbituba
+latitude:-28.24
+longitude:-48.67
+temperature: 62.6
+humidity: 93
+cloudiness: 0
+wind speed: 6.93
+-------------------------
+city number:77
+city name: kutum
+latitude:14.2
+longitude:24.66
+temperature: 66.56
+humidity: 94
+cloudiness: 48
+wind speed: 3.96
+-------------------------
+city number:78
+city name: hobart
+latitude:-42.88
+longitude:147.33
+temperature: 53.6
+humidity: 76
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:79
+city name: east london
+latitude:-33.02
+longitude:27.91
+temperature: 64.31
+humidity: 100
+cloudiness: 0
+wind speed: 25.77
+-------------------------
+city number:80
+city name: xining
+latitude:36.62
+longitude:101.77
+temperature: 55.67
+humidity: 97
+cloudiness: 44
+wind speed: 3.18
+-------------------------
+city number:81
+city name: hihifo
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:82
+city name: dhidhdhoo
+latitude:6.88
+longitude:73.1
+temperature: 82.85
+humidity: 98
+cloudiness: 68
+wind speed: 9.44
+-------------------------
+city number:83
+city name: hebertville
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:84
+city name: yellowknife
+latitude:62.45
+longitude:-114.38
+temperature: 59
+humidity: 51
+cloudiness: 40
+wind speed: 5.82
+-------------------------
+city number:85
+city name: hamilton
+latitude:32.3
+longitude:-64.78
+temperature: 80.6
+humidity: 69
+cloudiness: 20
+wind speed: 10.29
+-------------------------
+city number:86
+city name: barentsburg
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:87
+city name: kamenskoye
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:88
+city name: tasiilaq
+latitude:65.61
+longitude:-37.64
+temperature: 39.2
+humidity: 93
+cloudiness: 12
+wind speed: 5.82
+-------------------------
+city number:89
+city name: benin
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:90
+city name: jamestown
+latitude:-33.21
+longitude:138.6
+temperature: 54.23
+humidity: 45
+cloudiness: 0
+wind speed: 19.84
+-------------------------
+city number:91
+city name: saldanha
+latitude:41.42
+longitude:-6.55
+temperature: 66.83
+humidity: 61
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:92
+city name: laibin
+latitude:23.74
+longitude:109.23
+temperature: 75.47
+humidity: 100
+cloudiness: 92
+wind speed: 3.62
+-------------------------
+city number:93
+city name: lebu
+latitude:8.96
+longitude:38.73
+temperature: 55.4
+humidity: 100
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:94
+city name: mangai
+latitude:-4.07
+longitude:19.59
+temperature: 73.4
+humidity: 90
+cloudiness: 12
+wind speed: 3.18
+-------------------------
+city number:95
+city name: vezirkopru
+latitude:41.14
+longitude:35.45
+temperature: 62.6
+humidity: 63
+cloudiness: 0
+wind speed: 4.7
+-------------------------
+city number:96
+city name: tuktoyaktuk
+latitude:69.44
+longitude:-133.03
+temperature: 59
+humidity: 72
+cloudiness: 90
+wind speed: 9.17
+-------------------------
+city number:97
+city name: kudahuvadhoo
+latitude:2.67
+longitude:72.89
+temperature: 82.22
+humidity: 100
+cloudiness: 32
+wind speed: 4.85
+-------------------------
+city number:98
+city name: tsihombe
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:99
+city name: tilichiki
+latitude:60.47
+longitude:166.1
+temperature: 51.98
+humidity: 99
+cloudiness: 92
+wind speed: 3.96
+-------------------------
+city number:100
+city name: banes
+latitude:20.96
+longitude:-75.72
+temperature: 86
+humidity: 62
+cloudiness: 20
+wind speed: 18.34
+-------------------------
+city number:101
+city name: vaini
+latitude:15.34
+longitude:74.49
+temperature: 68.09
+humidity: 99
+cloudiness: 92
+wind speed: 6.53
+-------------------------
+city number:102
+city name: tura
+latitude:25.52
+longitude:90.21
+temperature: 77.18
+humidity: 97
+cloudiness: 68
+wind speed: 2.51
+-------------------------
+city number:103
+city name: mortara
+latitude:45.25
+longitude:8.74
+temperature: 80.6
+humidity: 74
+cloudiness: 0
+wind speed: 12.75
+-------------------------
+city number:104
+city name: namatanai
+latitude:-3.66
+longitude:152.44
+temperature: 77.9
+humidity: 100
+cloudiness: 88
+wind speed: 6.31
+-------------------------
+city number:105
+city name: leningradskiy
+latitude:69.38
+longitude:178.42
+temperature: 34.16
+humidity: 100
+cloudiness: 92
+wind speed: 4.18
+-------------------------
+city number:106
+city name: kaeo
+latitude:-35.1
+longitude:173.78
+temperature: 57.83
+humidity: 75
+cloudiness: 0
+wind speed: 11.56
+-------------------------
+city number:107
+city name: talnakh
+latitude:69.49
+longitude:88.39
+temperature: 49.01
+humidity: 72
+cloudiness: 64
+wind speed: 7.31
+-------------------------
+city number:108
+city name: belushya guba
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:109
+city name: pangnirtung
+latitude:66.15
+longitude:-65.72
+temperature: 44.51
+humidity: 90
+cloudiness: 8
+wind speed: 3.06
+-------------------------
+city number:110
+city name: luderitz
+latitude:-26.65
+longitude:15.16
+temperature: 50.09
+humidity: 92
+cloudiness: 0
+wind speed: 4.41
+-------------------------
+city number:111
+city name: guilin
+latitude:25.28
+longitude:110.29
+temperature: 75.2
+humidity: 100
+cloudiness: 20
+wind speed: 3.62
+-------------------------
+city number:112
+city name: benguela
+latitude:-12.58
+longitude:13.4
+temperature: 65.75
+humidity: 98
+cloudiness: 64
+wind speed: 5.08
+-------------------------
+city number:113
+city name: bluff
+latitude:-23.58
+longitude:149.07
+temperature: 68.63
+humidity: 73
+cloudiness: 0
+wind speed: 6.76
+-------------------------
+city number:114
+city name: caravelas
+latitude:-17.73
+longitude:-39.27
+temperature: 75.74
+humidity: 100
+cloudiness: 48
+wind speed: 16.71
+-------------------------
+city number:115
+city name: pangody
+latitude:65.85
+longitude:74.49
+temperature: 47.48
+humidity: 94
+cloudiness: 92
+wind speed: 22.3
+-------------------------
+city number:116
+city name: longyearbyen
+latitude:78.22
+longitude:15.63
+temperature: 46.4
+humidity: 87
+cloudiness: 75
+wind speed: 4.7
+-------------------------
+city number:117
+city name: suntar
+latitude:62.16
+longitude:117.65
+temperature: 57.38
+humidity: 55
+cloudiness: 0
+wind speed: 4.63
+-------------------------
+city number:118
+city name: ballitoville
+latitude:-29.54
+longitude:31.21
+temperature: 70.07
+humidity: 48
+cloudiness: 20
+wind speed: 6.2
+-------------------------
+city number:119
+city name: mvuma
+latitude:-19.28
+longitude:30.53
+temperature: 50.9
+humidity: 42
+cloudiness: 0
+wind speed: 8.99
+-------------------------
+city number:120
+city name: geraldton
+latitude:49.72
+longitude:-86.95
+temperature: 68
+humidity: 82
+cloudiness: 90
+wind speed: 11.41
+-------------------------
+city number:121
+city name: kelapa sawit
+latitude:1.68
+longitude:103.53
+temperature: 82.4
+humidity: 83
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:122
+city name: uglegorsk
+latitude:49.08
+longitude:142.06
+temperature: 64.58
+humidity: 79
+cloudiness: 0
+wind speed: 2.62
+-------------------------
+city number:123
+city name: attawapiskat
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:124
+city name: andros town
+latitude:24.73
+longitude:-77.79
+temperature: 84.2
+humidity: 70
+cloudiness: 40
+wind speed: 10.29
+-------------------------
+city number:125
+city name: vallenar
+latitude:-28.58
+longitude:-70.76
+temperature: 47.57
+humidity: 75
+cloudiness: 0
+wind speed: 2.28
+-------------------------
+city number:126
+city name: adra
+latitude:23.5
+longitude:86.68
+temperature: 77.54
+humidity: 95
+cloudiness: 92
+wind speed: 6.98
+-------------------------
+city number:127
+city name: esperance
+latitude:10.24
+longitude:-61.45
+temperature: 80.6
+humidity: 83
+cloudiness: 20
+wind speed: 5.82
+-------------------------
+city number:128
+city name: botwood
+latitude:49.14
+longitude:-55.34
+temperature: 68
+humidity: 94
+cloudiness: 90
+wind speed: 9.17
+-------------------------
+city number:129
+city name: saint-augustin
+latitude:44.83
+longitude:-0.61
+temperature: 77
+humidity: 61
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:130
+city name: changping
+latitude:40.22
+longitude:116.23
+temperature: 84.2
+humidity: 83
+cloudiness: 0
+wind speed: 4.47
+-------------------------
+city number:131
+city name: totness
+latitude:33.74
+longitude:-80.8
+temperature: 82.4
+humidity: 78
+cloudiness: 1
+wind speed: 5.41
+-------------------------
+city number:132
+city name: el alto
+latitude:-16.5
+longitude:-68.19
+temperature: 42.8
+humidity: 81
+cloudiness: 75
+wind speed: 10.29
+-------------------------
+city number:133
+city name: neiafu
+latitude:-18.65
+longitude:-173.98
+temperature: 75.2
+humidity: 57
+cloudiness: 75
+wind speed: 10.29
+-------------------------
+city number:134
+city name: vaitupu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:135
+city name: komsomolskiy
+latitude:67.55
+longitude:63.78
+temperature: 38.48
+humidity: 89
+cloudiness: 68
+wind speed: 4.07
+-------------------------
+city number:136
+city name: nantucket
+latitude:41.28
+longitude:-70.1
+temperature: 75.2
+humidity: 100
+cloudiness: 75
+wind speed: 12.75
+-------------------------
+city number:137
+city name: bathsheba
+latitude:13.22
+longitude:-59.52
+temperature: 80.6
+humidity: 78
+cloudiness: 20
+wind speed: 11.41
+-------------------------
+city number:138
+city name: ixtapa
+latitude:20.71
+longitude:-105.21
+temperature: 86
+humidity: 79
+cloudiness: 75
+wind speed: 10.29
+-------------------------
+city number:139
+city name: nizhneyansk
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:140
+city name: airai
+latitude:-8.93
+longitude:125.41
+temperature: 71.96
+humidity: 68
+cloudiness: 0
+wind speed: 2.17
+-------------------------
+city number:141
+city name: jalu
+latitude:29.03
+longitude:21.55
+temperature: 79.25
+humidity: 47
+cloudiness: 0
+wind speed: 10
+-------------------------
+city number:142
+city name: hay river
+latitude:60.82
+longitude:-115.79
+temperature: 59
+humidity: 58
+cloudiness: 75
+wind speed: 13.87
+-------------------------
+city number:143
+city name: margate
+latitude:-43.03
+longitude:147.26
+temperature: 53.6
+humidity: 76
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:144
+city name: atasu
+latitude:48.68
+longitude:71.64
+temperature: 60.08
+humidity: 77
+cloudiness: 12
+wind speed: 3.18
+-------------------------
+city number:145
+city name: torres
+latitude:-29.34
+longitude:-49.73
+temperature: 57.74
+humidity: 100
+cloudiness: 56
+wind speed: 6.42
+-------------------------
+city number:146
+city name: iqaluit
+latitude:63.75
+longitude:-68.52
+temperature: 46.4
+humidity: 70
+cloudiness: 75
+wind speed: 4.7
+-------------------------
+city number:147
+city name: necochea
+latitude:-38.55
+longitude:-58.74
+temperature: 44.6
+humidity: 80
+cloudiness: 12
+wind speed: 6.64
+-------------------------
+city number:148
+city name: aklavik
+latitude:68.22
+longitude:-135.01
+temperature: 62.6
+humidity: 67
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:149
+city name: barrow
+latitude:-38.31
+longitude:-60.23
+temperature: 43.88
+humidity: 55
+cloudiness: 12
+wind speed: 9.44
+-------------------------
+city number:150
+city name: barguzin
+latitude:53.62
+longitude:109.63
+temperature: 54.68
+humidity: 83
+cloudiness: 80
+wind speed: 2.62
+-------------------------
+city number:151
+city name: georgetown
+latitude:6.8
+longitude:-58.16
+temperature: 80.6
+humidity: 83
+cloudiness: 20
+wind speed: 9.17
+-------------------------
+city number:152
+city name: magadan
+latitude:59.56
+longitude:150.8
+temperature: 64.4
+humidity: 88
+cloudiness: 20
+wind speed: 2.24
+-------------------------
+city number:153
+city name: kuche
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:154
+city name: kapaa
+latitude:22.08
+longitude:-159.32
+temperature: 86
+humidity: 74
+cloudiness: 90
+wind speed: 18.34
+-------------------------
+city number:155
+city name: zwettl
+latitude:48.6
+longitude:15.17
+temperature: 65.48
+humidity: 79
+cloudiness: 12
+wind speed: 2.62
+-------------------------
+city number:156
+city name: sidi ali
+latitude:36.1
+longitude:0.42
+temperature: 70.43
+humidity: 73
+cloudiness: 0
+wind speed: 2.51
+-------------------------
+city number:157
+city name: stelle
+latitude:40.95
+longitude:-88.15
+temperature: 91.4
+humidity: 48
+cloudiness: 1
+wind speed: 6.93
+-------------------------
+city number:158
+city name: khatanga
+latitude:71.98
+longitude:102.47
+temperature: 46.4
+humidity: 97
+cloudiness: 92
+wind speed: 25.88
+-------------------------
+city number:159
+city name: bargal
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:160
+city name: ayagoz
+latitude:47.96
+longitude:80.43
+temperature: 55.94
+humidity: 88
+cloudiness: 0
+wind speed: 2.51
+-------------------------
+city number:161
+city name: tautira
+latitude:-17.73
+longitude:-149.15
+temperature: 84.2
+humidity: 66
+cloudiness: 75
+wind speed: 14.99
+-------------------------
+city number:162
+city name: makakilo city
+latitude:21.35
+longitude:-158.09
+temperature: 87.8
+humidity: 52
+cloudiness: 75
+wind speed: 13.87
+-------------------------
+city number:163
+city name: ust-nera
+latitude:64.57
+longitude:143.24
+temperature: 56.21
+humidity: 63
+cloudiness: 88
+wind speed: 2.62
+-------------------------
+city number:164
+city name: petropavlovsk-kamchatskiy
+latitude:53.05
+longitude:158.65
+temperature: 64.4
+humidity: 72
+cloudiness: 0
+wind speed: 4.47
+-------------------------
+city number:165
+city name: butaritari
+latitude:3.07
+longitude:172.79
+temperature: 83.3
+humidity: 100
+cloudiness: 24
+wind speed: 6.08
+-------------------------
+city number:166
+city name: paducah
+latitude:37.08
+longitude:-88.6
+temperature: 89.6
+humidity: 49
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:167
+city name: novopokrovka
+latitude:45.85
+longitude:134.51
+temperature: 67.73
+humidity: 85
+cloudiness: 24
+wind speed: 3.29
+-------------------------
+city number:168
+city name: vostok
+latitude:46.45
+longitude:135.83
+temperature: 66.47
+humidity: 79
+cloudiness: 68
+wind speed: 2.62
+-------------------------
+city number:169
+city name: sao filipe
+latitude:14.9
+longitude:-24.5
+temperature: 77.63
+humidity: 95
+cloudiness: 80
+wind speed: 11.68
+-------------------------
+city number:170
+city name: aksarka
+latitude:66.56
+longitude:67.8
+temperature: 43.52
+humidity: 77
+cloudiness: 92
+wind speed: 7.31
+-------------------------
+city number:171
+city name: san marcos
+latitude:14.97
+longitude:-91.79
+temperature: 84.2
+humidity: 70
+cloudiness: 40
+wind speed: 6.93
+-------------------------
+city number:172
+city name: sioux lookout
+latitude:50.1
+longitude:-91.92
+temperature: 77
+humidity: 50
+cloudiness: 90
+wind speed: 12.75
+-------------------------
+city number:173
+city name: laguna
+latitude:27.52
+longitude:-110.01
+temperature: 98.6
+humidity: 42
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:174
+city name: orsha
+latitude:54.51
+longitude:30.43
+temperature: 61.16
+humidity: 87
+cloudiness: 12
+wind speed: 2.84
+-------------------------
+city number:175
+city name: ambilobe
+latitude:-13.19
+longitude:49.05
+temperature: 68.63
+humidity: 74
+cloudiness: 0
+wind speed: 8.21
+-------------------------
+city number:176
+city name: muli
+latitude:22.62
+longitude:71.45
+temperature: 79.52
+humidity: 79
+cloudiness: 92
+wind speed: 13.91
+-------------------------
+city number:177
+city name: henties bay
+latitude:-22.12
+longitude:14.28
+temperature: 50.36
+humidity: 100
+cloudiness: 0
+wind speed: 6.98
+-------------------------
+city number:178
+city name: yilan
+latitude:24.75
+longitude:121.75
+temperature: 86
+humidity: 83
+cloudiness: 40
+wind speed: 1.12
+-------------------------
+city number:179
+city name: awjilah
+latitude:29.14
+longitude:21.3
+temperature: 84.38
+humidity: 43
+cloudiness: 0
+wind speed: 11.79
+-------------------------
+city number:180
+city name: samarai
+latitude:-10.62
+longitude:150.67
+temperature: 79.43
+humidity: 96
+cloudiness: 12
+wind speed: 18.95
+-------------------------
+city number:181
+city name: tucumcari
+latitude:35.17
+longitude:-103.73
+temperature: 98.6
+humidity: 22
+cloudiness: 20
+wind speed: 11.41
+-------------------------
+city number:182
+city name: mao
+latitude:19.55
+longitude:-71.08
+temperature: 86
+humidity: 58
+cloudiness: 20
+wind speed: 13.87
+-------------------------
+city number:183
+city name: mahebourg
+latitude:-20.41
+longitude:57.7
+temperature: 71.6
+humidity: 73
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:184
+city name: hofn
+latitude:64.25
+longitude:-15.21
+temperature: 50.63
+humidity: 95
+cloudiness: 12
+wind speed: 0.72
+-------------------------
+city number:185
+city name: bredasdorp
+latitude:-34.53
+longitude:20.04
+temperature: 42.8
+humidity: 93
+cloudiness: 100
+wind speed: 2.24
+-------------------------
+city number:186
+city name: sampit
+latitude:-2.54
+longitude:112.95
+temperature: 75.47
+humidity: 88
+cloudiness: 0
+wind speed: 4.74
+-------------------------
+city number:187
+city name: lata
+latitude:30.78
+longitude:78.62
+temperature: 60.8
+humidity: 100
+cloudiness: 68
+wind speed: 1.16
+-------------------------
+city number:188
+city name: cervo
+latitude:-22.19
+longitude:-46.24
+temperature: 55.58
+humidity: 95
+cloudiness: 56
+wind speed: 4.74
+-------------------------
+city number:189
+city name: maragogi
+latitude:-9.01
+longitude:-35.22
+temperature: 70.88
+humidity: 96
+cloudiness: 64
+wind speed: 4.97
+-------------------------
+city number:190
+city name: lagoa
+latitude:37.14
+longitude:-8.45
+temperature: 78.8
+humidity: 65
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:191
+city name: shahrud
+latitude:36.42
+longitude:54.97
+temperature: 64.94
+humidity: 64
+cloudiness: 56
+wind speed: 2.39
+-------------------------
+city number:192
+city name: baiyin
+latitude:36.55
+longitude:104.13
+temperature: 60.8
+humidity: 100
+cloudiness: 0
+wind speed: 4.47
+-------------------------
+city number:193
+city name: nishihara
+latitude:35.74
+longitude:139.53
+temperature: 87.8
+humidity: 74
+cloudiness: 1
+wind speed: 3.36
+-------------------------
+city number:194
+city name: port lincoln
+latitude:-34.72
+longitude:135.86
+temperature: 51.62
+humidity: 100
+cloudiness: 92
+wind speed: 7.2
+-------------------------
+city number:195
+city name: gualaquiza
+latitude:-3.4
+longitude:-78.58
+temperature: 62.96
+humidity: 97
+cloudiness: 68
+wind speed: 0.6
+-------------------------
+city number:196
+city name: mys shmidta
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:197
+city name: palabuhanratu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:198
+city name: rosarito
+latitude:4.91
+longitude:-75.23
+temperature: 75.2
+humidity: 69
+cloudiness: 40
+wind speed: 6.93
+-------------------------
+city number:199
+city name: beni
+latitude:0.49
+longitude:29.47
+temperature: 61.61
+humidity: 92
+cloudiness: 0
+wind speed: 2.84
+-------------------------
+city number:200
+city name: castro
+latitude:-42.48
+longitude:-73.76
+temperature: 50.99
+humidity: 98
+cloudiness: 92
+wind speed: 5.75
+-------------------------
+city number:201
+city name: salaga
+latitude:8.55
+longitude:-0.52
+temperature: 70.97
+humidity: 100
+cloudiness: 92
+wind speed: 4.74
+-------------------------
+city number:202
+city name: cam pha
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:203
+city name: rudnichnyy
+latitude:59.7
+longitude:60.29
+temperature: 37.22
+humidity: 83
+cloudiness: 0
+wind speed: 2.28
+-------------------------
+city number:204
+city name: panorama
+latitude:-21.35
+longitude:-51.86
+temperature: 65.03
+humidity: 97
+cloudiness: 92
+wind speed: 2.95
+-------------------------
+city number:205
+city name: aukra
+latitude:62.79
+longitude:6.92
+temperature: 57.2
+humidity: 87
+cloudiness: 92
+wind speed: 5.82
+-------------------------
+city number:206
+city name: sao jose da coroa grande
+latitude:-8.9
+longitude:-35.15
+temperature: 70.88
+humidity: 96
+cloudiness: 64
+wind speed: 4.97
+-------------------------
+city number:207
+city name: nuuk
+latitude:64.17
+longitude:-51.74
+temperature: 42.8
+humidity: 93
+cloudiness: 75
+wind speed: 18.34
+-------------------------
+city number:208
+city name: araouane
+latitude:18.9
+longitude:-3.53
+temperature: 87.98
+humidity: 40
+cloudiness: 0
+wind speed: 10.56
+-------------------------
+city number:209
+city name: kamra
+latitude:33.86
+longitude:72.39
+temperature: 86
+humidity: 74
+cloudiness: 20
+wind speed: 4.7
+-------------------------
+city number:210
+city name: rincon
+latitude:32.3
+longitude:-81.24
+temperature: 84.2
+humidity: 78
+cloudiness: 1
+wind speed: 3.36
+-------------------------
+city number:211
+city name: harindanga
+latitude:22.04
+longitude:88.32
+temperature: 80.6
+humidity: 94
+cloudiness: 75
+wind speed: 4.7
+-------------------------
+city number:212
+city name: san bernardo
+latitude:-33.59
+longitude:-70.7
+temperature: 53.6
+humidity: 58
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:213
+city name: cam ranh
+latitude:11.92
+longitude:109.15
+temperature: 79.79
+humidity: 97
+cloudiness: 80
+wind speed: 3.4
+-------------------------
+city number:214
+city name: half moon bay
+latitude:37.46
+longitude:-122.43
+temperature: 95
+humidity: 77
+cloudiness: 1
+wind speed: 14.99
+-------------------------
+city number:215
+city name: batagay-alyta
+latitude:67.8
+longitude:130.41
+temperature: 60.62
+humidity: 68
+cloudiness: 68
+wind speed: 4.07
+-------------------------
+city number:216
+city name: yerbogachen
+latitude:61.28
+longitude:108.01
+temperature: 53.42
+humidity: 71
+cloudiness: 0
+wind speed: 5.19
+-------------------------
+city number:217
+city name: princeton
+latitude:41.37
+longitude:-89.46
+temperature: 87.8
+humidity: 48
+cloudiness: 1
+wind speed: 13.87
+-------------------------
+city number:218
+city name: paka
+latitude:45.29
+longitude:18.06
+temperature: 69.8
+humidity: 94
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:219
+city name: hithadhoo
+latitude:-0.6
+longitude:73.08
+temperature: 82.85
+humidity: 100
+cloudiness: 88
+wind speed: 4.74
+-------------------------
+city number:220
+city name: dvinskoy
+latitude:62.16
+longitude:45.12
+temperature: 52.25
+humidity: 71
+cloudiness: 48
+wind speed: 5.41
+-------------------------
+city number:221
+city name: jiuquan
+latitude:39.73
+longitude:98.49
+temperature: 63.5
+humidity: 74
+cloudiness: 88
+wind speed: 2.84
+-------------------------
+city number:222
+city name: lokosovo
+latitude:61.13
+longitude:74.84
+temperature: 46.94
+humidity: 87
+cloudiness: 80
+wind speed: 12.68
+-------------------------
+city number:223
+city name: catamarca
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:224
+city name: oriximina
+latitude:-1.77
+longitude:-55.87
+temperature: 79.61
+humidity: 79
+cloudiness: 12
+wind speed: 1.95
+-------------------------
+city number:225
+city name: burnie
+latitude:-41.05
+longitude:145.91
+temperature: 55.85
+humidity: 90
+cloudiness: 88
+wind speed: 25.55
+-------------------------
+city number:226
+city name: mount gambier
+latitude:-37.83
+longitude:140.78
+temperature: 54.14
+humidity: 68
+cloudiness: 64
+wind speed: 11.23
+-------------------------
+city number:227
+city name: adrar
+latitude:27.87
+longitude:-0.29
+temperature: 86.63
+humidity: 21
+cloudiness: 0
+wind speed: 8.43
+-------------------------
+city number:228
+city name: kamenka
+latitude:53.19
+longitude:44.05
+temperature: 66.02
+humidity: 75
+cloudiness: 32
+wind speed: 2.73
+-------------------------
+city number:229
+city name: ossora
+latitude:59.24
+longitude:163.07
+temperature: 55.49
+humidity: 100
+cloudiness: 64
+wind speed: 11.12
+-------------------------
+city number:230
+city name: axim
+latitude:4.87
+longitude:-2.24
+temperature: 76.19
+humidity: 100
+cloudiness: 64
+wind speed: 11.56
+-------------------------
+city number:231
+city name: coahuayana
+latitude:18.62
+longitude:-100.35
+temperature: 74.75
+humidity: 80
+cloudiness: 64
+wind speed: 2.28
+-------------------------
+city number:232
+city name: insar
+latitude:53.87
+longitude:44.37
+temperature: 68.27
+humidity: 58
+cloudiness: 36
+wind speed: 7.2
+-------------------------
+city number:233
+city name: saleaula
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:234
+city name: sorland
+latitude:67.67
+longitude:12.69
+temperature: 55.04
+humidity: 100
+cloudiness: 92
+wind speed: 14.03
+-------------------------
+city number:235
+city name: cape town
+latitude:-33.93
+longitude:18.42
+temperature: 53.6
+humidity: 93
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:236
+city name: codrington
+latitude:-28.95
+longitude:153.24
+temperature: 60.26
+humidity: 69
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:237
+city name: pathein
+latitude:16.78
+longitude:94.73
+temperature: 75.38
+humidity: 100
+cloudiness: 92
+wind speed: 7.09
+-------------------------
+city number:238
+city name: saint-paul
+latitude:45.22
+longitude:1.9
+temperature: 71.6
+humidity: 64
+cloudiness: 0
+wind speed: 5.64
+-------------------------
+city number:239
+city name: byron bay
+latitude:-28.65
+longitude:153.62
+temperature: 66.2
+humidity: 55
+cloudiness: 0
+wind speed: 5.97
+-------------------------
+city number:240
+city name: lavrentiya
+latitude:65.58
+longitude:-170.99
+temperature: 45.23
+humidity: 100
+cloudiness: 56
+wind speed: 10.78
+-------------------------
+city number:241
+city name: ancud
+latitude:-41.87
+longitude:-73.83
+temperature: 51.71
+humidity: 97
+cloudiness: 92
+wind speed: 7.99
+-------------------------
+city number:242
+city name: ballina
+latitude:54.11
+longitude:-9.15
+temperature: 52.52
+humidity: 100
+cloudiness: 56
+wind speed: 3.4
+-------------------------
+city number:243
+city name: progreso
+latitude:-34.68
+longitude:-56.22
+temperature: 50
+humidity: 93
+cloudiness: 90
+wind speed: 4.7
+-------------------------
+city number:244
+city name: salalah
+latitude:17.01
+longitude:54.1
+temperature: 75.2
+humidity: 100
+cloudiness: 90
+wind speed: 3.36
+-------------------------
+city number:245
+city name: narsaq
+latitude:60.91
+longitude:-46.05
+temperature: 50
+humidity: 76
+cloudiness: 92
+wind speed: 3.36
+-------------------------
+city number:246
+city name: vao
+latitude:59.1
+longitude:26.19
+temperature: 63.59
+humidity: 91
+cloudiness: 64
+wind speed: 6.76
+-------------------------
+city number:247
+city name: sinkat
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:248
+city name: biak
+latitude:-0.91
+longitude:122.88
+temperature: 78.44
+humidity: 89
+cloudiness: 8
+wind speed: 5.3
+-------------------------
+city number:249
+city name: brae
+latitude:60.4
+longitude:-1.35
+temperature: 53.6
+humidity: 76
+cloudiness: 92
+wind speed: 16.11
+-------------------------
+city number:250
+city name: pochutla
+latitude:15.74
+longitude:-96.47
+temperature: 82.4
+humidity: 78
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:251
+city name: hobyo
+latitude:5.35
+longitude:48.53
+temperature: 73.13
+humidity: 89
+cloudiness: 20
+wind speed: 16.93
+-------------------------
+city number:252
+city name: coquimbo
+latitude:-29.95
+longitude:-71.34
+temperature: 51.8
+humidity: 87
+cloudiness: 0
+wind speed: 4.52
+-------------------------
+city number:253
+city name: jacareacanga
+latitude:-6.22
+longitude:-57.76
+temperature: 77.72
+humidity: 88
+cloudiness: 36
+wind speed: 1.83
+-------------------------
+city number:254
+city name: illoqqortoormiut
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:255
+city name: mar del plata
+latitude:-46.43
+longitude:-67.52
+temperature: 53.6
+humidity: 50
+cloudiness: 56
+wind speed: 11.79
+-------------------------
+city number:256
+city name: ntoum
+latitude:0.39
+longitude:9.76
+temperature: 77
+humidity: 83
+cloudiness: 20
+wind speed: 9.17
+-------------------------
+city number:257
+city name: bowen
+latitude:-20.01
+longitude:148.25
+temperature: 71.6
+humidity: 73
+cloudiness: 24
+wind speed: 6.93
+-------------------------
+city number:258
+city name: samalaeulu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:259
+city name: masterton
+latitude:-40.95
+longitude:175.66
+temperature: 52.07
+humidity: 100
+cloudiness: 92
+wind speed: 11.01
+-------------------------
+city number:260
+city name: sapai
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:261
+city name: srednekolymsk
+latitude:67.46
+longitude:153.71
+temperature: 54.86
+humidity: 60
+cloudiness: 0
+wind speed: 5.19
+-------------------------
+city number:262
+city name: fort nelson
+latitude:58.81
+longitude:-122.69
+temperature: 80.6
+humidity: 34
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:263
+city name: bourail
+latitude:-21.57
+longitude:165.5
+temperature: 71.51
+humidity: 56
+cloudiness: 0
+wind speed: 4.18
+-------------------------
+city number:264
+city name: meulaboh
+latitude:4.14
+longitude:96.13
+temperature: 77.9
+humidity: 100
+cloudiness: 92
+wind speed: 1.61
+-------------------------
+city number:265
+city name: majene
+latitude:-3.54
+longitude:118.97
+temperature: 81.32
+humidity: 99
+cloudiness: 44
+wind speed: 16.15
+-------------------------
+city number:266
+city name: yulara
+latitude:-25.24
+longitude:130.99
+temperature: 48.2
+humidity: 49
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:267
+city name: ambanja
+latitude:-13.68
+longitude:48.45
+temperature: 65.48
+humidity: 95
+cloudiness: 36
+wind speed: 3.18
+-------------------------
+city number:268
+city name: beloha
+latitude:-25.17
+longitude:45.06
+temperature: 50.63
+humidity: 81
+cloudiness: 0
+wind speed: 5.64
+-------------------------
+city number:269
+city name: khonuu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:270
+city name: inhambupe
+latitude:-11.79
+longitude:-38.36
+temperature: 69.62
+humidity: 86
+cloudiness: 8
+wind speed: 7.31
+-------------------------
+city number:271
+city name: kununurra
+latitude:-15.77
+longitude:128.74
+temperature: 68
+humidity: 60
+cloudiness: 8
+wind speed: 5.08
+-------------------------
+city number:272
+city name: bethel
+latitude:60.79
+longitude:-161.76
+temperature: 60.8
+humidity: 77
+cloudiness: 90
+wind speed: 8.05
+-------------------------
+city number:273
+city name: zhigalovo
+latitude:54.81
+longitude:105.15
+temperature: 54.23
+humidity: 76
+cloudiness: 88
+wind speed: 2.73
+-------------------------
+city number:274
+city name: kinanah
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:275
+city name: satipo
+latitude:-11.26
+longitude:-74.64
+temperature: 65.3
+humidity: 89
+cloudiness: 24
+wind speed: 1.95
+-------------------------
+city number:276
+city name: north bend
+latitude:43.41
+longitude:-124.22
+temperature: 62.6
+humidity: 82
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:277
+city name: potosi
+latitude:-19.59
+longitude:-65.75
+temperature: 30.83
+humidity: 96
+cloudiness: 92
+wind speed: 2.17
+-------------------------
+city number:278
+city name: tessalit
+latitude:20.2
+longitude:1.01
+temperature: 86.27
+humidity: 43
+cloudiness: 8
+wind speed: 6.2
+-------------------------
+city number:279
+city name: matamoros
+latitude:25.87
+longitude:-97.51
+temperature: 91.4
+humidity: 59
+cloudiness: 1
+wind speed: 18.34
+-------------------------
+city number:280
+city name: bubaque
+latitude:11.28
+longitude:-15.83
+temperature: 78.98
+humidity: 100
+cloudiness: 80
+wind speed: 9.78
+-------------------------
+city number:281
+city name: pueblo nuevo
+latitude:23.99
+longitude:-106.96
+temperature: 86.45
+humidity: 68
+cloudiness: 56
+wind speed: 3.74
+-------------------------
+city number:282
+city name: belyy yar
+latitude:53.6
+longitude:91.39
+temperature: 62.6
+humidity: 82
+cloudiness: 0
+wind speed: 7.31
+-------------------------
+city number:283
+city name: ambositra
+latitude:-20.53
+longitude:47.24
+temperature: 52.7
+humidity: 100
+cloudiness: 88
+wind speed: 1.61
+-------------------------
+city number:284
+city name: soria
+latitude:41.76
+longitude:-2.46
+temperature: 60.17
+humidity: 59
+cloudiness: 0
+wind speed: 3.18
+-------------------------
+city number:285
+city name: visnes
+latitude:59.36
+longitude:5.22
+temperature: 59
+humidity: 82
+cloudiness: 92
+wind speed: 19.46
+-------------------------
+city number:286
+city name: marfino
+latitude:56.07
+longitude:37.56
+temperature: 64.4
+humidity: 88
+cloudiness: 0
+wind speed: 6.71
+-------------------------
+city number:287
+city name: champerico
+latitude:16.38
+longitude:-93.6
+temperature: 86
+humidity: 48
+cloudiness: 90
+wind speed: 5.82
+-------------------------
+city number:288
+city name: chuy
+latitude:-33.69
+longitude:-53.46
+temperature: 54.23
+humidity: 97
+cloudiness: 92
+wind speed: 14.58
+-------------------------
+city number:289
+city name: mayumba
+latitude:-3.44
+longitude:10.65
+temperature: 67.91
+humidity: 96
+cloudiness: 8
+wind speed: 3.51
+-------------------------
+city number:290
+city name: stepnogorsk
+latitude:52.35
+longitude:71.88
+temperature: 53.42
+humidity: 76
+cloudiness: 12
+wind speed: 2.84
+-------------------------
+city number:291
+city name: nirmali
+latitude:26.31
+longitude:86.57
+temperature: 78.44
+humidity: 93
+cloudiness: 68
+wind speed: 5.19
+-------------------------
+city number:292
+city name: jistebnice
+latitude:49.49
+longitude:14.53
+temperature: 69.8
+humidity: 88
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:293
+city name: saint george
+latitude:39.45
+longitude:22.34
+temperature: 69.8
+humidity: 64
+cloudiness: 0
+wind speed: 6.93
+-------------------------
+city number:294
+city name: umea
+latitude:63.83
+longitude:20.26
+temperature: 60.8
+humidity: 67
+cloudiness: 68
+wind speed: 5.82
+-------------------------
+city number:295
+city name: banda aceh
+latitude:5.56
+longitude:95.32
+temperature: 74.39
+humidity: 98
+cloudiness: 20
+wind speed: 4.18
+-------------------------
+city number:296
+city name: seoul
+latitude:37.57
+longitude:126.98
+temperature: 84.2
+humidity: 89
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:297
+city name: ulaangom
+latitude:49.98
+longitude:92.07
+temperature: 46.22
+humidity: 70
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:298
+city name: ahipara
+latitude:-35.17
+longitude:173.16
+temperature: 56.93
+humidity: 85
+cloudiness: 0
+wind speed: 11.01
+-------------------------
+city number:299
+city name: tupik
+latitude:54.43
+longitude:119.94
+temperature: 57.38
+humidity: 86
+cloudiness: 80
+wind speed: 5.41
+-------------------------
+city number:300
+city name: mehamn
+latitude:71.03
+longitude:27.85
+temperature: 51.44
+humidity: 100
+cloudiness: 92
+wind speed: 4.41
+-------------------------
+city number:301
+city name: kodiak
+latitude:39.95
+longitude:-94.76
+temperature: 87.8
+humidity: 48
+cloudiness: 40
+wind speed: 9.17
+-------------------------
+city number:302
+city name: asfi
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:303
+city name: dudinka
+latitude:69.41
+longitude:86.18
+temperature: 50.36
+humidity: 69
+cloudiness: 92
+wind speed: 13.91
+-------------------------
+city number:304
+city name: vardo
+latitude:39.62
+longitude:-77.74
+temperature: 87.8
+humidity: 62
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:305
+city name: karchaghbyur
+latitude:40.17
+longitude:45.58
+temperature: 50.54
+humidity: 100
+cloudiness: 12
+wind speed: 1.39
+-------------------------
+city number:306
+city name: piquete
+latitude:-22.61
+longitude:-45.18
+temperature: 62.6
+humidity: 93
+cloudiness: 20
+wind speed: 1.12
+-------------------------
+city number:307
+city name: nhulunbuy
+latitude:-12.18
+longitude:136.78
+temperature: 80.6
+humidity: 74
+cloudiness: 92
+wind speed: 8.05
+-------------------------
+city number:308
+city name: kazalinsk
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:309
+city name: san patricio
+latitude:-26.98
+longitude:-56.83
+temperature: 51.17
+humidity: 84
+cloudiness: 48
+wind speed: 3.51
+-------------------------
+city number:310
+city name: paamiut
+latitude:61.99
+longitude:-49.67
+temperature: 41.72
+humidity: 95
+cloudiness: 92
+wind speed: 16.15
+-------------------------
+city number:311
+city name: jackson
+latitude:35.61
+longitude:-88.82
+temperature: 89.6
+humidity: 55
+cloudiness: 1
+wind speed: 2.51
+-------------------------
+city number:312
+city name: zuya
+latitude:45.05
+longitude:34.32
+temperature: 60.08
+humidity: 83
+cloudiness: 8
+wind speed: 2.39
+-------------------------
+city number:313
+city name: general artigas
+latitude:-26.93
+longitude:-56.22
+temperature: 57.2
+humidity: 62
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:314
+city name: urumqi
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:315
+city name: kayerkan
+latitude:69.35
+longitude:87.76
+temperature: 49.55
+humidity: 72
+cloudiness: 76
+wind speed: 10
+-------------------------
+city number:316
+city name: turukhansk
+latitude:65.8
+longitude:87.96
+temperature: 50.9
+humidity: 100
+cloudiness: 32
+wind speed: 12.01
+-------------------------
+city number:317
+city name: sibolga
+latitude:1.74
+longitude:98.78
+temperature: 67.82
+humidity: 100
+cloudiness: 76
+wind speed: 0.6
+-------------------------
+city number:318
+city name: vila franca do campo
+latitude:37.72
+longitude:-25.43
+temperature: 71.6
+humidity: 78
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:319
+city name: kinablangan
+latitude:7.69
+longitude:126.55
+temperature: 83.84
+humidity: 99
+cloudiness: 32
+wind speed: 6.53
+-------------------------
+city number:320
+city name: buraydah
+latitude:26.33
+longitude:43.97
+temperature: 96.8
+humidity: 23
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:321
+city name: batemans bay
+latitude:-35.71
+longitude:150.18
+temperature: 56.21
+humidity: 82
+cloudiness: 36
+wind speed: 5.75
+-------------------------
+city number:322
+city name: iskateley
+latitude:67.68
+longitude:53.15
+temperature: 44.51
+humidity: 97
+cloudiness: 76
+wind speed: 7.99
+-------------------------
+city number:323
+city name: halifax
+latitude:44.65
+longitude:-63.58
+temperature: 71.6
+humidity: 94
+cloudiness: 75
+wind speed: 5.82
+-------------------------
+city number:324
+city name: genhe
+latitude:50.78
+longitude:121.52
+temperature: 59.99
+humidity: 86
+cloudiness: 0
+wind speed: 4.18
+-------------------------
+city number:325
+city name: dharmadam
+latitude:11.78
+longitude:75.43
+temperature: 71.51
+humidity: 98
+cloudiness: 92
+wind speed: 1.39
+-------------------------
+city number:326
+city name: koumac
+latitude:-20.56
+longitude:164.28
+temperature: 72.95
+humidity: 68
+cloudiness: 0
+wind speed: 6.64
+-------------------------
+city number:327
+city name: houston
+latitude:29.76
+longitude:-95.37
+temperature: 87.8
+humidity: 94
+cloudiness: 75
+wind speed: 4.7
+-------------------------
+city number:328
+city name: westport
+latitude:53.8
+longitude:-9.52
+temperature: 53.33
+humidity: 100
+cloudiness: 64
+wind speed: 3.06
+-------------------------
+city number:329
+city name: dickinson
+latitude:46.88
+longitude:-102.79
+temperature: 86
+humidity: 20
+cloudiness: 1
+wind speed: 13.87
+-------------------------
+city number:330
+city name: shache
+latitude:38.42
+longitude:77.24
+temperature: 59.72
+humidity: 66
+cloudiness: 0
+wind speed: 3.62
+-------------------------
+city number:331
+city name: mareeba
+latitude:-16.99
+longitude:145.42
+temperature: 75.2
+humidity: 64
+cloudiness: 75
+wind speed: 10.29
+-------------------------
+city number:332
+city name: silver city
+latitude:32.77
+longitude:-108.28
+temperature: 87.8
+humidity: 25
+cloudiness: 1
+wind speed: 1.28
+-------------------------
+city number:333
+city name: viedma
+latitude:-40.81
+longitude:-62.99
+temperature: 53.24
+humidity: 33
+cloudiness: 0
+wind speed: 12.35
+-------------------------
+city number:334
+city name: babanusah
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:335
+city name: vengerovo
+latitude:55.68
+longitude:76.74
+temperature: 45.05
+humidity: 85
+cloudiness: 0
+wind speed: 7.2
+-------------------------
+city number:336
+city name: douentza
+latitude:15.01
+longitude:-2.95
+temperature: 75.56
+humidity: 88
+cloudiness: 32
+wind speed: 4.63
+-------------------------
+city number:337
+city name: aracataca
+latitude:10.59
+longitude:-74.19
+temperature: 89.6
+humidity: 59
+cloudiness: 40
+wind speed: 16.11
+-------------------------
+city number:338
+city name: along
+latitude:28.17
+longitude:94.8
+temperature: 71.15
+humidity: 93
+cloudiness: 80
+wind speed: 1.39
+-------------------------
+city number:339
+city name: mujiayingzi
+latitude:42.12
+longitude:118.78
+temperature: 68.72
+humidity: 100
+cloudiness: 92
+wind speed: 4.07
+-------------------------
+city number:340
+city name: matara
+latitude:-13.74
+longitude:-72.9
+temperature: 44.6
+humidity: 75
+cloudiness: 75
+wind speed: 1.95
+-------------------------
+city number:341
+city name: bairiki
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:342
+city name: kavieng
+latitude:-2.57
+longitude:150.8
+temperature: 82.04
+humidity: 100
+cloudiness: 80
+wind speed: 1.95
+-------------------------
+city number:343
+city name: nanortalik
+latitude:60.14
+longitude:-45.24
+temperature: 42.35
+humidity: 99
+cloudiness: 92
+wind speed: 2.95
+-------------------------
+city number:344
+city name: xunchang
+latitude:28.45
+longitude:104.71
+temperature: 74.39
+humidity: 84
+cloudiness: 0
+wind speed: 3.96
+-------------------------
+city number:345
+city name: touros
+latitude:-5.2
+longitude:-35.46
+temperature: 77.18
+humidity: 86
+cloudiness: 88
+wind speed: 14.58
+-------------------------
+city number:346
+city name: sitka
+latitude:37.17
+longitude:-99.65
+temperature: 96.62
+humidity: 32
+cloudiness: 0
+wind speed: 9.78
+-------------------------
+city number:347
+city name: constitucion
+latitude:23.99
+longitude:-104.67
+temperature: 86
+humidity: 11
+cloudiness: 75
+wind speed: 12.75
+-------------------------
+city number:348
+city name: meyungs
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:349
+city name: qaanaaq
+latitude:77.48
+longitude:-69.36
+temperature: 38.48
+humidity: 92
+cloudiness: 44
+wind speed: 0.83
+-------------------------
+city number:350
+city name: linhares
+latitude:-19.38
+longitude:-40.06
+temperature: 71.69
+humidity: 81
+cloudiness: 0
+wind speed: 10.56
+-------------------------
+city number:351
+city name: amderma
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:352
+city name: umzimvubu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:353
+city name: abrau-dyurso
+latitude:44.7
+longitude:37.6
+temperature: 68
+humidity: 94
+cloudiness: 0
+wind speed: 6.71
+-------------------------
+city number:354
+city name: cidreira
+latitude:-30.17
+longitude:-50.22
+temperature: 56.75
+humidity: 92
+cloudiness: 20
+wind speed: 14.58
+-------------------------
+city number:355
+city name: sur
+latitude:22.57
+longitude:59.53
+temperature: 86.27
+humidity: 81
+cloudiness: 0
+wind speed: 5.64
+-------------------------
+city number:356
+city name: chokurdakh
+latitude:70.62
+longitude:147.9
+temperature: 46.4
+humidity: 79
+cloudiness: 24
+wind speed: 11.34
+-------------------------
+city number:357
+city name: antofagasta
+latitude:-23.65
+longitude:-70.4
+temperature: 55.4
+humidity: 71
+cloudiness: 75
+wind speed: 3.36
+-------------------------
+city number:358
+city name: haverfordwest
+latitude:51.8
+longitude:-4.97
+temperature: 62.6
+humidity: 77
+cloudiness: 36
+wind speed: 8.05
+-------------------------
+city number:359
+city name: ohringen
+latitude:47.53
+longitude:8.71
+temperature: 73.4
+humidity: 77
+cloudiness: 0
+wind speed: 2.62
+-------------------------
+city number:360
+city name: cabo san lucas
+latitude:22.89
+longitude:-109.91
+temperature: 95
+humidity: 55
+cloudiness: 5
+wind speed: 17.22
+-------------------------
+city number:361
+city name: cagayan de tawi-tawi
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:362
+city name: bulungu
+latitude:-4.54
+longitude:18.6
+temperature: 71.78
+humidity: 89
+cloudiness: 0
+wind speed: 2.95
+-------------------------
+city number:363
+city name: calabozo
+latitude:8.92
+longitude:-67.43
+temperature: 77.99
+humidity: 83
+cloudiness: 20
+wind speed: 6.87
+-------------------------
+city number:364
+city name: tuatapere
+latitude:-46.13
+longitude:167.69
+temperature: 46.04
+humidity: 100
+cloudiness: 88
+wind speed: 4.63
+-------------------------
+city number:365
+city name: butembo
+latitude:0.12
+longitude:29.29
+temperature: 59.27
+humidity: 91
+cloudiness: 0
+wind speed: 2.62
+-------------------------
+city number:366
+city name: gayny
+latitude:60.3
+longitude:54.33
+temperature: 43.52
+humidity: 82
+cloudiness: 0
+wind speed: 3.18
+-------------------------
+city number:367
+city name: bengkulu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:368
+city name: gisborne
+latitude:-38.66
+longitude:178.02
+temperature: 53.96
+humidity: 98
+cloudiness: 92
+wind speed: 21.07
+-------------------------
+city number:369
+city name: sosnovo-ozerskoye
+latitude:52.53
+longitude:111.54
+temperature: 59.18
+humidity: 92
+cloudiness: 92
+wind speed: 4.63
+-------------------------
+city number:370
+city name: cayenne
+latitude:4.94
+longitude:-52.33
+temperature: 80.6
+humidity: 83
+cloudiness: 0
+wind speed: 4.7
+-------------------------
+city number:371
+city name: jibuti
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:372
+city name: vestmannaeyjar
+latitude:63.44
+longitude:-20.27
+temperature: 49.37
+humidity: 97
+cloudiness: 76
+wind speed: 6.2
+-------------------------
+city number:373
+city name: saint combs
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:374
+city name: riohacha
+latitude:11.54
+longitude:-72.91
+temperature: 84.2
+humidity: 74
+cloudiness: 20
+wind speed: 16.11
+-------------------------
+city number:375
+city name: bolshegrivskoye
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:376
+city name: pisco
+latitude:-13.71
+longitude:-76.2
+temperature: 62.6
+humidity: 82
+cloudiness: 0
+wind speed: 18.34
+-------------------------
+city number:377
+city name: ilulissat
+latitude:69.22
+longitude:-51.1
+temperature: 48.2
+humidity: 61
+cloudiness: 40
+wind speed: 1.12
+-------------------------
+city number:378
+city name: panguipulli
+latitude:-39.64
+longitude:-72.33
+temperature: 48.2
+humidity: 100
+cloudiness: 90
+wind speed: 8.05
+-------------------------
+city number:379
+city name: ostrovnoy
+latitude:68.05
+longitude:39.51
+temperature: 47.75
+humidity: 73
+cloudiness: 92
+wind speed: 7.99
+-------------------------
+city number:380
+city name: nong kung si
+latitude:16.65
+longitude:103.3
+temperature: 75.2
+humidity: 94
+cloudiness: 40
+wind speed: 3.36
+-------------------------
+city number:381
+city name: aswan
+latitude:24.09
+longitude:32.9
+temperature: 82.04
+humidity: 33
+cloudiness: 0
+wind speed: 7.2
+-------------------------
+city number:382
+city name: saint-philippe
+latitude:45.36
+longitude:-73.48
+temperature: 78.8
+humidity: 65
+cloudiness: 1
+wind speed: 8.05
+-------------------------
+city number:383
+city name: tecuala
+latitude:22.4
+longitude:-105.46
+temperature: 87.62
+humidity: 82
+cloudiness: 32
+wind speed: 9.44
+-------------------------
+city number:384
+city name: lorengau
+latitude:-2.02
+longitude:147.27
+temperature: 77.54
+humidity: 100
+cloudiness: 88
+wind speed: 5.53
+-------------------------
+city number:385
+city name: praia da vitoria
+latitude:38.73
+longitude:-27.07
+temperature: 71.6
+humidity: 83
+cloudiness: 75
+wind speed: 11.68
+-------------------------
+city number:386
+city name: coari
+latitude:-4.09
+longitude:-63.14
+temperature: 76.28
+humidity: 92
+cloudiness: 8
+wind speed: 4.52
+-------------------------
+city number:387
+city name: shubarkuduk
+latitude:49.15
+longitude:56.49
+temperature: 68.72
+humidity: 74
+cloudiness: 76
+wind speed: 2.73
+-------------------------
+city number:388
+city name: godda
+latitude:24.83
+longitude:87.21
+temperature: 76.55
+humidity: 99
+cloudiness: 92
+wind speed: 4.18
+-------------------------
+city number:389
+city name: upington
+latitude:-28.46
+longitude:21.24
+temperature: 42.8
+humidity: 69
+cloudiness: 0
+wind speed: 2.24
+-------------------------
+city number:390
+city name: araguacu
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:391
+city name: port-gentil
+latitude:-0.72
+longitude:8.78
+temperature: 75.2
+humidity: 94
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:392
+city name: carnot
+latitude:4.94
+longitude:15.87
+temperature: 70.25
+humidity: 94
+cloudiness: 68
+wind speed: 4.18
+-------------------------
+city number:393
+city name: lago da pedra
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:394
+city name: penzance
+latitude:50.12
+longitude:-5.53
+temperature: 59
+humidity: 93
+cloudiness: 12
+wind speed: 6.93
+-------------------------
+city number:395
+city name: akyab
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:396
+city name: severnyy-kospashskiy
+latitude:59.09
+longitude:57.8
+temperature: 39.02
+humidity: 84
+cloudiness: 0
+wind speed: 2.73
+-------------------------
+city number:397
+city name: grand river south east
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:398
+city name: carbonia
+latitude:39.17
+longitude:8.53
+temperature: 73.4
+humidity: 88
+cloudiness: 20
+wind speed: 3.36
+-------------------------
+city number:399
+city name: daru
+latitude:7.99
+longitude:-10.85
+temperature: 71.24
+humidity: 99
+cloudiness: 92
+wind speed: 5.19
+-------------------------
+city number:400
+city name: muhos
+latitude:64.81
+longitude:26
+temperature: 66.2
+humidity: 82
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:401
+city name: okha
+latitude:53.59
+longitude:142.95
+temperature: 62.15
+humidity: 80
+cloudiness: 0
+wind speed: 3.96
+-------------------------
+city number:402
+city name: namibe
+latitude:-15.19
+longitude:12.15
+temperature: 64.13
+humidity: 100
+cloudiness: 0
+wind speed: 15.7
+-------------------------
+city number:403
+city name: bambanglipuro
+latitude:-7.95
+longitude:110.28
+temperature: 65.93
+humidity: 91
+cloudiness: 0
+wind speed: 2.95
+-------------------------
+city number:404
+city name: offa
+latitude:7.97
+longitude:4.32
+temperature: 71.6
+humidity: 96
+cloudiness: 88
+wind speed: 7.99
+-------------------------
+city number:405
+city name: canby
+latitude:45.26
+longitude:-122.69
+temperature: 84.2
+humidity: 39
+cloudiness: 1
+wind speed: 3.36
+-------------------------
+city number:406
+city name: manono
+latitude:-7.3
+longitude:27.4
+temperature: 68.63
+humidity: 56
+cloudiness: 0
+wind speed: 3.74
+-------------------------
+city number:407
+city name: yeniseysk
+latitude:58.45
+longitude:92.17
+temperature: 60.35
+humidity: 83
+cloudiness: 0
+wind speed: 5.41
+-------------------------
+city number:408
+city name: of
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:409
+city name: minab
+latitude:27.15
+longitude:57.07
+temperature: 84.2
+humidity: 83
+cloudiness: 0
+wind speed: 4.7
+-------------------------
+city number:410
+city name: cockburn town
+latitude:21.46
+longitude:-71.14
+temperature: 81.14
+humidity: 100
+cloudiness: 68
+wind speed: 21.3
+-------------------------
+city number:411
+city name: isangel
+latitude:-19.55
+longitude:169.27
+temperature: 71.87
+humidity: 100
+cloudiness: 48
+wind speed: 12.46
+-------------------------
+city number:412
+city name: erenhot
+latitude:43.65
+longitude:111.97
+temperature: 68.36
+humidity: 73
+cloudiness: 92
+wind speed: 15.93
+-------------------------
+city number:413
+city name: kruisfontein
+latitude:-34
+longitude:24.73
+temperature: 56.3
+humidity: 100
+cloudiness: 92
+wind speed: 10.22
+-------------------------
+city number:414
+city name: ji-parana
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:415
+city name: steamboat springs
+latitude:40.48
+longitude:-106.83
+temperature: 84.2
+humidity: 27
+cloudiness: 1
+wind speed: 8.05
+-------------------------
+city number:416
+city name: sibsagar
+latitude:26.98
+longitude:94.64
+temperature: 76.64
+humidity: 94
+cloudiness: 20
+wind speed: 1.61
+-------------------------
+city number:417
+city name: port blair
+latitude:11.67
+longitude:92.75
+temperature: 81.14
+humidity: 100
+cloudiness: 76
+wind speed: 25.43
+-------------------------
+city number:418
+city name: carnarvon
+latitude:-30.97
+longitude:22.13
+temperature: 29.3
+humidity: 84
+cloudiness: 20
+wind speed: 5.08
+-------------------------
+city number:419
+city name: haines junction
+latitude:60.75
+longitude:-137.51
+temperature: 63.68
+humidity: 51
+cloudiness: 76
+wind speed: 3.18
+-------------------------
+city number:420
+city name: sabang
+latitude:13.72
+longitude:123.58
+temperature: 79.07
+humidity: 99
+cloudiness: 100
+wind speed: 11.12
+-------------------------
+city number:421
+city name: sal rei
+latitude:16.18
+longitude:-22.92
+temperature: 75.2
+humidity: 83
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:422
+city name: halalo
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:423
+city name: union
+latitude:47.36
+longitude:-123.1
+temperature: 82.4
+humidity: 39
+cloudiness: 1
+wind speed: 8.05
+-------------------------
+city number:424
+city name: bilhaur
+latitude:26.84
+longitude:80.06
+temperature: 78.98
+humidity: 84
+cloudiness: 92
+wind speed: 4.29
+-------------------------
+city number:425
+city name: ketchikan
+latitude:55.34
+longitude:-131.65
+temperature: 66.2
+humidity: 63
+cloudiness: 40
+wind speed: 11.41
+-------------------------
+city number:426
+city name: northam
+latitude:51.04
+longitude:-4.21
+temperature: 64.4
+humidity: 93
+cloudiness: 0
+wind speed: 4.7
+-------------------------
+city number:427
+city name: havoysund
+latitude:71
+longitude:24.66
+temperature: 51.8
+humidity: 100
+cloudiness: 88
+wind speed: 3.36
+-------------------------
+city number:428
+city name: rantepao
+latitude:-2.97
+longitude:119.9
+temperature: 68.27
+humidity: 98
+cloudiness: 56
+wind speed: 1.39
+-------------------------
+city number:429
+city name: coihaique
+latitude:-45.58
+longitude:-72.07
+temperature: 48.2
+humidity: 70
+cloudiness: 75
+wind speed: 9.17
+-------------------------
+city number:430
+city name: mithimna
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:431
+city name: lebedinyy
+latitude:58.52
+longitude:125.52
+temperature: 52.43
+humidity: 76
+cloudiness: 36
+wind speed: 6.2
+-------------------------
+city number:432
+city name: panjab
+latitude:34.38
+longitude:67.02
+temperature: 36.5
+humidity: 78
+cloudiness: 0
+wind speed: 2.06
+-------------------------
+city number:433
+city name: seymchan
+latitude:62.93
+longitude:152.39
+temperature: 58.1
+humidity: 89
+cloudiness: 48
+wind speed: 8.77
+-------------------------
+city number:434
+city name: college
+latitude:64.86
+longitude:-147.8
+temperature: 68
+humidity: 56
+cloudiness: 75
+wind speed: 11.41
+-------------------------
+city number:435
+city name: kiunga
+latitude:-6.12
+longitude:141.3
+temperature: 71.06
+humidity: 99
+cloudiness: 92
+wind speed: 2.84
+-------------------------
+city number:436
+city name: haapiti
+latitude:-17.57
+longitude:-149.87
+temperature: 84.2
+humidity: 66
+cloudiness: 75
+wind speed: 14.99
+-------------------------
+city number:437
+city name: cepelare
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:438
+city name: turayf
+latitude:31.68
+longitude:38.65
+temperature: 78.8
+humidity: 54
+cloudiness: 0
+wind speed: 11.41
+-------------------------
+city number:439
+city name: sisimiut
+latitude:66.94
+longitude:-53.67
+temperature: 41.72
+humidity: 98
+cloudiness: 92
+wind speed: 2.39
+-------------------------
+city number:440
+city name: cairns
+latitude:-16.92
+longitude:145.77
+temperature: 75.2
+humidity: 64
+cloudiness: 75
+wind speed: 10.29
+-------------------------
+city number:441
+city name: upernavik
+latitude:72.79
+longitude:-56.15
+temperature: 41.45
+humidity: 90
+cloudiness: 8
+wind speed: 2.95
+-------------------------
+city number:442
+city name: zhoucheng
+latitude:31.35
+longitude:119.33
+temperature: 86
+humidity: 88
+cloudiness: 0
+wind speed: 3.96
+-------------------------
+city number:443
+city name: hami
+latitude:42.84
+longitude:93.51
+temperature: 72.14
+humidity: 53
+cloudiness: 0
+wind speed: 5.41
+-------------------------
+city number:444
+city name: karimnagar
+latitude:18.43
+longitude:79.13
+temperature: 75.92
+humidity: 81
+cloudiness: 12
+wind speed: 12.24
+-------------------------
+city number:445
+city name: el carmen
+latitude:-24.39
+longitude:-65.26
+temperature: 53.6
+humidity: 71
+cloudiness: 80
+wind speed: 2.17
+-------------------------
+city number:446
+city name: storforshei
+latitude:66.4
+longitude:14.52
+temperature: 42.08
+humidity: 91
+cloudiness: 64
+wind speed: 1.5
+-------------------------
+city number:447
+city name: carutapera
+latitude:-1.2
+longitude:-46.02
+temperature: 79.16
+humidity: 83
+cloudiness: 56
+wind speed: 9.89
+-------------------------
+city number:448
+city name: mecca
+latitude:21.43
+longitude:39.83
+temperature: 93.2
+humidity: 44
+cloudiness: 0
+wind speed: 2.24
+-------------------------
+city number:449
+city name: thompson
+latitude:55.74
+longitude:-97.86
+temperature: 64.4
+humidity: 93
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:450
+city name: ordynskoye
+latitude:54.37
+longitude:81.9
+temperature: 52.43
+humidity: 100
+cloudiness: 0
+wind speed: 7.76
+-------------------------
+city number:451
+city name: pevek
+latitude:69.7
+longitude:170.27
+temperature: 42.71
+humidity: 100
+cloudiness: 12
+wind speed: 8.66
+-------------------------
+city number:452
+city name: gizo
+latitude:31.8
+longitude:34.94
+temperature: 78.8
+humidity: 78
+cloudiness: 20
+wind speed: 3.36
+-------------------------
+city number:453
+city name: rio gallegos
+latitude:-51.62
+longitude:-69.22
+temperature: 28.4
+humidity: 79
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:454
+city name: kracheh
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:455
+city name: leshukonskoye
+latitude:64.9
+longitude:45.76
+temperature: 45.5
+humidity: 84
+cloudiness: 44
+wind speed: 2.95
+-------------------------
+city number:456
+city name: mbour
+latitude:14.41
+longitude:-16.97
+temperature: 82.4
+humidity: 78
+cloudiness: 20
+wind speed: 4.7
+-------------------------
+city number:457
+city name: la sarre
+latitude:48.8
+longitude:-79.2
+temperature: 72.95
+humidity: 65
+cloudiness: 0
+wind speed: 7.54
+-------------------------
+city number:458
+city name: husavik
+latitude:50.56
+longitude:-96.99
+temperature: 78.17
+humidity: 72
+cloudiness: 36
+wind speed: 8.77
+-------------------------
+city number:459
+city name: padang
+latitude:-0.92
+longitude:100.36
+temperature: 75.56
+humidity: 100
+cloudiness: 76
+wind speed: 5.19
+-------------------------
+city number:460
+city name: cravo norte
+latitude:6.3
+longitude:-70.2
+temperature: 77
+humidity: 91
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:461
+city name: salvador
+latitude:-12.98
+longitude:-38.48
+temperature: 78.8
+humidity: 74
+cloudiness: 20
+wind speed: 11.41
+-------------------------
+city number:462
+city name: kerteh
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:463
+city name: guerrero negro
+latitude:27.97
+longitude:-114.04
+temperature: 80.78
+humidity: 61
+cloudiness: 0
+wind speed: 13.24
+-------------------------
+city number:464
+city name: zlobin
+latitude:45.29
+longitude:14.65
+temperature: 75.2
+humidity: 53
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:465
+city name: barbar
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:466
+city name: copiapo
+latitude:-27.37
+longitude:-70.33
+temperature: 53.6
+humidity: 76
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:467
+city name: kungurtug
+latitude:50.6
+longitude:97.53
+temperature: 50
+humidity: 100
+cloudiness: 24
+wind speed: 2.51
+-------------------------
+city number:468
+city name: nioro
+latitude:13.79
+longitude:-15.05
+temperature: 76.55
+humidity: 88
+cloudiness: 48
+wind speed: 12.01
+-------------------------
+city number:469
+city name: prince rupert
+latitude:54.32
+longitude:-130.32
+temperature: 69.8
+humidity: 60
+cloudiness: 1
+wind speed: 6.93
+-------------------------
+city number:470
+city name: riorges
+latitude:46.04
+longitude:4.03
+temperature: 73.4
+humidity: 68
+cloudiness: 0
+wind speed: 6.31
+-------------------------
+city number:471
+city name: caloundra
+latitude:-26.8
+longitude:153.14
+temperature: 62.6
+humidity: 45
+cloudiness: 0
+wind speed: 8.05
+-------------------------
+city number:472
+city name: gardan diwal
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:473
+city name: kontagora
+latitude:10.4
+longitude:5.47
+temperature: 73.13
+humidity: 93
+cloudiness: 80
+wind speed: 6.98
+-------------------------
+city number:474
+city name: bako
+latitude:9.68
+longitude:6.4
+temperature: 70.7
+humidity: 94
+cloudiness: 92
+wind speed: 3.62
+-------------------------
+city number:475
+city name: kaitangata
+latitude:-46.28
+longitude:169.85
+temperature: 44.06
+humidity: 92
+cloudiness: 68
+wind speed: 4.18
+-------------------------
+city number:476
+city name: taoudenni
+latitude:22.68
+longitude:-3.98
+temperature: 84.92
+humidity: 35
+cloudiness: 12
+wind speed: 7.99
+-------------------------
+city number:477
+city name: guozhen
+latitude:29.3
+longitude:113.14
+temperature: 83.48
+humidity: 87
+cloudiness: 0
+wind speed: 4.07
+-------------------------
+city number:478
+city name: essenbach
+latitude:48.32
+longitude:11.23
+temperature: 71.6
+humidity: 88
+cloudiness: 32
+wind speed: 2.24
+-------------------------
+city number:479
+city name: kavant
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:480
+city name: lekoni
+latitude:-1.58
+longitude:14.26
+temperature: 68.09
+humidity: 94
+cloudiness: 20
+wind speed: 5.75
+-------------------------
+city number:481
+city name: nyzhni sirohozy
+latitude:46.85
+longitude:34.38
+temperature: 69.89
+humidity: 58
+cloudiness: 0
+wind speed: 7.87
+-------------------------
+city number:482
+city name: alta floresta
+latitude:-9.87
+longitude:-56.08
+temperature: 86.45
+humidity: 33
+cloudiness: 64
+wind speed: 3.51
+-------------------------
+city number:483
+city name: palmer
+latitude:-34.85
+longitude:139.16
+temperature: 57.2
+humidity: 33
+cloudiness: 75
+wind speed: 23.04
+-------------------------
+city number:484
+city name: tutoia
+latitude:-2.76
+longitude:-42.27
+temperature: 80.33
+humidity: 75
+cloudiness: 8
+wind speed: 12.12
+-------------------------
+city number:485
+city name: toliary
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:486
+city name: inhambane
+latitude:-23.87
+longitude:35.38
+temperature: 67.1
+humidity: 100
+cloudiness: 0
+wind speed: 13.47
+-------------------------
+city number:487
+city name: la asuncion
+latitude:-1.64
+longitude:-78.74
+temperature: 49.91
+humidity: 74
+cloudiness: 88
+wind speed: 1.28
+-------------------------
+city number:488
+city name: ecuandureo
+latitude:20.16
+longitude:-102.19
+temperature: 63.68
+humidity: 96
+cloudiness: 56
+wind speed: 2.06
+-------------------------
+city number:489
+city name: potgietersrus
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:490
+city name: ngunguru
+latitude:-35.62
+longitude:174.5
+temperature: 57.47
+humidity: 100
+cloudiness: 0
+wind speed: 18.28
+-------------------------
+city number:491
+city name: teknaf
+latitude:20.86
+longitude:92.31
+temperature: 75.29
+humidity: 100
+cloudiness: 92
+wind speed: 2.95
+-------------------------
+city number:492
+city name: yarkovo
+latitude:54.81
+longitude:82.6
+temperature: 51.8
+humidity: 93
+cloudiness: 90
+wind speed: 8.95
+-------------------------
+city number:493
+city name: karratha
+latitude:-20.74
+longitude:116.85
+temperature: 55.85
+humidity: 75
+cloudiness: 0
+wind speed: 13.58
+-------------------------
+city number:494
+city name: camacha
+latitude:33.08
+longitude:-16.33
+temperature: 73.4
+humidity: 83
+cloudiness: 40
+wind speed: 18.34
+-------------------------
+city number:495
+city name: rawannawi
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:496
+city name: altagracia de orituco
+latitude:9.86
+longitude:-66.38
+temperature: 78.35
+humidity: 79
+cloudiness: 24
+wind speed: 7.65
+-------------------------
+city number:497
+city name: nerchinskiy zavod
+latitude:51.31
+longitude:119.61
+temperature: 61.7
+humidity: 88
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:498
+city name: poletayevo
+latitude:55.04
+longitude:61.11
+temperature: 53.6
+humidity: 87
+cloudiness: 20
+wind speed: 4.47
+-------------------------
+city number:499
+city name: long beach
+latitude:30.35
+longitude:-89.15
+temperature: 87.8
+humidity: 74
+cloudiness: 20
+wind speed: 11.41
+-------------------------
+city number:500
+city name: cap malheureux
+latitude:-19.98
+longitude:57.61
+temperature: 71.6
+humidity: 73
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:501
+city name: acapulco
+latitude:16.86
+longitude:-99.88
+temperature: 82.4
+humidity: 83
+cloudiness: 90
+wind speed: 6.93
+-------------------------
+city number:502
+city name: marzuq
+latitude:14.4
+longitude:46.47
+temperature: 68.27
+humidity: 57
+cloudiness: 80
+wind speed: 2.62
+-------------------------
+city number:503
+city name: keetmanshoop
+latitude:-26.57
+longitude:18.15
+temperature: 37.67
+humidity: 35
+cloudiness: 0
+wind speed: 6.31
+-------------------------
+city number:504
+city name: jieshi
+latitude:22.82
+longitude:115.83
+temperature: 84.65
+humidity: 92
+cloudiness: 92
+wind speed: 2.73
+-------------------------
+city number:505
+city name: goderich
+latitude:43.74
+longitude:-81.71
+temperature: 76.82
+humidity: 74
+cloudiness: 0
+wind speed: 5.75
+-------------------------
+city number:506
+city name: mogadishu
+latitude:2.04
+longitude:45.34
+temperature: 76.64
+humidity: 100
+cloudiness: 80
+wind speed: 15.48
+-------------------------
+city number:507
+city name: bayan
+latitude:47.25
+longitude:107.54
+temperature: 61.43
+humidity: 89
+cloudiness: 92
+wind speed: 11.23
+-------------------------
+city number:508
+city name: port macquarie
+latitude:-31.43
+longitude:152.91
+temperature: 51.8
+humidity: 66
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:509
+city name: mmabatho
+latitude:-25.85
+longitude:25.61
+temperature: 59
+humidity: 67
+cloudiness: 88
+wind speed: 6.93
+-------------------------
+city number:510
+city name: port-cartier
+latitude:50.03
+longitude:-66.88
+temperature: 68
+humidity: 82
+cloudiness: 75
+wind speed: 4.7
+-------------------------
+city number:511
+city name: rio grande
+latitude:-32.03
+longitude:-52.1
+temperature: 54.86
+humidity: 96
+cloudiness: 76
+wind speed: 15.03
+-------------------------
+city number:512
+city name: sao joao da barra
+latitude:-21.64
+longitude:-41.05
+temperature: 73.4
+humidity: 83
+cloudiness: 20
+wind speed: 4.7
+-------------------------
+city number:513
+city name: vestmanna
+latitude:62.16
+longitude:-7.17
+temperature: 50
+humidity: 81
+cloudiness: 88
+wind speed: 12.75
+-------------------------
+city number:514
+city name: grand gaube
+latitude:-20.01
+longitude:57.66
+temperature: 71.6
+humidity: 73
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:515
+city name: senno
+latitude:57.76
+longitude:27.95
+temperature: 64.4
+humidity: 82
+cloudiness: 64
+wind speed: 4.47
+-------------------------
+city number:516
+city name: yomitan
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:517
+city name: nacogdoches
+latitude:31.6
+longitude:-94.66
+temperature: 93.2
+humidity: 52
+cloudiness: 68
+wind speed: 13.87
+-------------------------
+city number:518
+city name: doctor phillips
+latitude:28.45
+longitude:-81.49
+temperature: 89.6
+humidity: 62
+cloudiness: 1
+wind speed: 9.17
+-------------------------
+city number:519
+city name: danielskuil
+latitude:-28.19
+longitude:23.54
+temperature: 39.38
+humidity: 58
+cloudiness: 0
+wind speed: 7.2
+-------------------------
+city number:520
+city name: richards bay
+latitude:-28.77
+longitude:32.06
+temperature: 65.3
+humidity: 65
+cloudiness: 0
+wind speed: 6.2
+-------------------------
+city number:521
+city name: surt
+latitude:31.21
+longitude:16.59
+temperature: 78.62
+humidity: 98
+cloudiness: 0
+wind speed: 10.56
+-------------------------
+city number:522
+city name: marcona
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:523
+city name: constantine
+latitude:36.36
+longitude:6.61
+temperature: 68
+humidity: 94
+cloudiness: 40
+wind speed: 2.24
+-------------------------
+city number:524
+city name: vanavara
+latitude:60.35
+longitude:102.28
+temperature: 51.71
+humidity: 79
+cloudiness: 0
+wind speed: 6.31
+-------------------------
+city number:525
+city name: nago
+latitude:45.88
+longitude:10.89
+temperature: 78.8
+humidity: 74
+cloudiness: 40
+wind speed: 5.82
+-------------------------
+city number:526
+city name: alofi
+latitude:-19.06
+longitude:-169.92
+temperature: 78.8
+humidity: 54
+cloudiness: 56
+wind speed: 14.99
+-------------------------
+city number:527
+city name: vung tau
+latitude:10.35
+longitude:107.08
+temperature: 78.8
+humidity: 100
+cloudiness: 75
+wind speed: 6.93
+-------------------------
+city number:528
+city name: lolua
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:529
+city name: longlac
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:530
+city name: tsiroanomandidy
+latitude:-18.77
+longitude:46.05
+temperature: 47.3
+humidity: 78
+cloudiness: 0
+wind speed: 4.29
+-------------------------
+city number:531
+city name: bure
+latitude:10.52
+longitude:10.33
+temperature: 77.81
+humidity: 72
+cloudiness: 92
+wind speed: 9.78
+-------------------------
+city number:532
+city name: emerald
+latitude:-23.53
+longitude:148.16
+temperature: 71.87
+humidity: 60
+cloudiness: 0
+wind speed: 8.99
+-------------------------
+city number:533
+city name: new glasgow
+latitude:45.59
+longitude:-62.65
+temperature: 74.12
+humidity: 89
+cloudiness: 64
+wind speed: 3.96
+-------------------------
+city number:534
+city name: nylstroom
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:535
+city name: porto novo
+latitude:-23.68
+longitude:-45.44
+temperature: 68
+humidity: 68
+cloudiness: 0
+wind speed: 9.17
+-------------------------
+city number:536
+city name: ati
+latitude:13.21
+longitude:18.34
+temperature: 72.77
+humidity: 96
+cloudiness: 76
+wind speed: 6.98
+-------------------------
+city number:537
+city name: ahar
+latitude:38.48
+longitude:47.07
+temperature: 53.06
+humidity: 94
+cloudiness: 0
+wind speed: 2.06
+-------------------------
+city number:538
+city name: pitanga
+latitude:-24.76
+longitude:-51.76
+temperature: 56.75
+humidity: 96
+cloudiness: 88
+wind speed: 2.17
+-------------------------
+city number:539
+city name: cabinda
+latitude:-5.56
+longitude:12.19
+temperature: 71.15
+humidity: 97
+cloudiness: 44
+wind speed: 7.43
+-------------------------
+city number:540
+city name: valparaiso
+latitude:41.47
+longitude:-87.06
+temperature: 93.2
+humidity: 49
+cloudiness: 1
+wind speed: 12.75
+-------------------------
+city number:541
+city name: los llanos de aridane
+latitude:28.66
+longitude:-17.92
+temperature: 73.4
+humidity: 73
+cloudiness: 48
+wind speed: 16.11
+-------------------------
+city number:542
+city name: yumen
+latitude:40.29
+longitude:97.04
+temperature: 71.24
+humidity: 50
+cloudiness: 56
+wind speed: 6.87
+-------------------------
+city number:543
+city name: ust-kut
+latitude:56.78
+longitude:105.75
+temperature: 53.33
+humidity: 67
+cloudiness: 32
+wind speed: 3.29
+-------------------------
+city number:544
+city name: kahului
+latitude:20.89
+longitude:-156.47
+temperature: 84.2
+humidity: 70
+cloudiness: 40
+wind speed: 23.04
+-------------------------
+city number:545
+city name: chernyshevskiy
+latitude:63.01
+longitude:112.47
+temperature: 54.14
+humidity: 61
+cloudiness: 0
+wind speed: 3.29
+-------------------------
+city number:546
+city name: kasane
+latitude:-17.8
+longitude:25.16
+temperature: 55.94
+humidity: 49
+cloudiness: 0
+wind speed: 4.63
+-------------------------
+city number:547
+city name: andenes
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:548
+city name: soyo
+latitude:-6.13
+longitude:12.37
+temperature: 68.72
+humidity: 93
+cloudiness: 32
+wind speed: 5.19
+-------------------------
+city number:549
+city name: katangli
+latitude:51.71
+longitude:143.23
+temperature: 55.13
+humidity: 92
+cloudiness: 44
+wind speed: 2.17
+-------------------------
+city number:550
+city name: nowa sol
+latitude:51.8
+longitude:15.72
+temperature: 73.4
+humidity: 64
+cloudiness: 40
+wind speed: 6.93
+-------------------------
+city number:551
+city name: bilma
+latitude:18.69
+longitude:12.92
+temperature: 79.25
+humidity: 37
+cloudiness: 0
+wind speed: 4.07
+-------------------------
+city number:552
+city name: sungurlare
+latitude:42.77
+longitude:26.78
+temperature: 69.8
+humidity: 83
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:553
+city name: cordoba
+latitude:5.59
+longitude:-73.79
+temperature: 57.65
+humidity: 60
+cloudiness: 80
+wind speed: 1.16
+-------------------------
+city number:554
+city name: clinton
+latitude:30.87
+longitude:-91.02
+temperature: 84.2
+humidity: 69
+cloudiness: 1
+wind speed: 6.93
+-------------------------
+city number:555
+city name: poronaysk
+latitude:49.22
+longitude:143.1
+temperature: 66.92
+humidity: 84
+cloudiness: 0
+wind speed: 2.84
+-------------------------
+city number:556
+city name: rorvik
+latitude:64.86
+longitude:11.24
+temperature: 54.77
+humidity: 100
+cloudiness: 92
+wind speed: 7.2
+-------------------------
+city number:557
+city name: puerto quijarro
+latitude:-19
+longitude:-57.72
+temperature: 57.2
+humidity: 87
+cloudiness: 75
+wind speed: 8.05
+-------------------------
+city number:558
+city name: kizner
+latitude:56.27
+longitude:51.51
+temperature: 59.63
+humidity: 86
+cloudiness: 92
+wind speed: 8.66
+-------------------------
+city number:559
+city name: khandyga
+latitude:62.65
+longitude:135.58
+temperature: 67.73
+humidity: 76
+cloudiness: 0
+wind speed: 3.4
+-------------------------
+city number:560
+city name: kyren
+latitude:51.68
+longitude:102.13
+temperature: 55.31
+humidity: 100
+cloudiness: 92
+wind speed: 1.72
+-------------------------
+city number:561
+city name: kadykchan
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:562
+city name: emba
+latitude:34.81
+longitude:32.42
+temperature: 78.8
+humidity: 83
+cloudiness: 20
+wind speed: 5.82
+-------------------------
+city number:563
+city name: lompoc
+latitude:34.64
+longitude:-120.46
+temperature: 89.6
+humidity: 25
+cloudiness: 1
+wind speed: 12.75
+-------------------------
+city number:564
+city name: antalaha
+latitude:-14.9
+longitude:50.28
+temperature: 69.98
+humidity: 94
+cloudiness: 20
+wind speed: 12.24
+-------------------------
+city number:565
+city name: sorvag
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:566
+city name: pucallpa
+latitude:-8.38
+longitude:-74.54
+temperature: 80.6
+humidity: 78
+cloudiness: 40
+wind speed: 8.05
+-------------------------
+city number:567
+city name: kalmunai
+latitude:7.42
+longitude:81.82
+temperature: 71.42
+humidity: 98
+cloudiness: 32
+wind speed: 2.84
+-------------------------
+city number:568
+city name: broken hill
+latitude:-31.97
+longitude:141.45
+temperature: 56.93
+humidity: 54
+cloudiness: 0
+wind speed: 21.07
+-------------------------
+city number:569
+city name: sao raimundo nonato
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:570
+city name: banikoara
+latitude:11.3
+longitude:2.44
+temperature: 73.76
+humidity: 89
+cloudiness: 20
+wind speed: 8.66
+-------------------------
+city number:571
+city name: sao gabriel da cachoeira
+latitude:-0.13
+longitude:-67.09
+temperature: 75.02
+humidity: 91
+cloudiness: 44
+wind speed: 2.62
+-------------------------
+city number:572
+city name: picui
+latitude:-6.51
+longitude:-36.35
+temperature: 74.3
+humidity: 62
+cloudiness: 0
+wind speed: 11.34
+-------------------------
+city number:573
+city name: milkovo
+latitude:41.53
+longitude:24.68
+temperature: 69.8
+humidity: 77
+cloudiness: 0
+wind speed: 3.36
+-------------------------
+city number:574
+city name: nizwa
+latitude:22.93
+longitude:57.53
+temperature: 77.45
+humidity: 41
+cloudiness: 24
+wind speed: 4.63
+-------------------------
+city number:575
+city name: tabou
+latitude:4.42
+longitude:-7.36
+temperature: 77.9
+humidity: 100
+cloudiness: 0
+wind speed: 12.24
+-------------------------
+city number:576
+city name: monte alegre de minas
+latitude:-18.87
+longitude:-48.88
+temperature: 71.87
+humidity: 62
+cloudiness: 68
+wind speed: 7.54
+-------------------------
+city number:577
+city name: kalakamati
+latitude:-20.59
+longitude:27.31
+temperature: 52.43
+humidity: 36
+cloudiness: 0
+wind speed: 7.2
+-------------------------
+city number:578
+city name: slave lake
+latitude:55.28
+longitude:-114.77
+temperature: 69.8
+humidity: 64
+cloudiness: 40
+wind speed: 9.17
+-------------------------
+city number:579
+city name: bendigo
+latitude:-36.76
+longitude:144.28
+temperature: 50.27
+humidity: 90
+cloudiness: 0
+wind speed: 16.49
+-------------------------
+city number:580
+city name: pacific grove
+latitude:36.62
+longitude:-121.92
+temperature: 93.2
+humidity: 18
+cloudiness: 1
+wind speed: 14.99
+-------------------------
+city number:581
+city name: shimoda
+latitude:34.7
+longitude:138.93
+temperature: 84.2
+humidity: 89
+cloudiness: 40
+wind speed: 10.29
+-------------------------
+city number:582
+city name: aksu
+latitude:52.04
+longitude:76.93
+temperature: 55.4
+humidity: 87
+cloudiness: 0
+wind speed: 6.71
+-------------------------
+city number:583
+city name: churapcha
+latitude:62
+longitude:132.43
+temperature: 65.03
+humidity: 80
+cloudiness: 88
+wind speed: 5.75
+-------------------------
+city number:584
+city name: san quintin
+latitude:17.54
+longitude:120.52
+temperature: 80.6
+humidity: 94
+cloudiness: 20
+wind speed: 2.24
+-------------------------
+city number:585
+city name: hambantota
+latitude:6.12
+longitude:81.12
+temperature: 80.51
+humidity: 98
+cloudiness: 20
+wind speed: 16.82
+-------------------------
+city number:586
+city name: kaohsiung
+latitude:22.62
+longitude:120.31
+temperature: 82.4
+humidity: 69
+cloudiness: 40
+wind speed: 4.7
+-------------------------
+city number:587
+city name: orange walk
+latitude:17.93
+longitude:-76.27
+temperature: 86
+humidity: 70
+cloudiness: 75
+wind speed: 16.11
+-------------------------
+city number:588
+city name: pampa
+latitude:35.54
+longitude:-100.96
+temperature: 96.8
+humidity: 22
+cloudiness: 1
+wind speed: 14.99
+-------------------------
+city number:589
+city name: bulgan
+latitude:48.81
+longitude:103.53
+temperature: 60.44
+humidity: 99
+cloudiness: 48
+wind speed: 3.96
+-------------------------
+city number:590
+city name: tawnat
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:591
+city name: ola
+latitude:59.58
+longitude:151.3
+temperature: 64.4
+humidity: 88
+cloudiness: 20
+wind speed: 2.24
+-------------------------
+city number:592
+city name: lethem
+latitude:3.38
+longitude:-59.8
+temperature: 82.58
+humidity: 67
+cloudiness: 24
+wind speed: 5.19
+-------------------------
+city number:593
+city name: aquiraz
+latitude:-3.9
+longitude:-38.39
+temperature: 78.8
+humidity: 78
+cloudiness: 0
+wind speed: 8.05
+-------------------------
+city number:594
+city name: changji
+latitude:32.07
+longitude:116.17
+temperature: 83.21
+humidity: 90
+cloudiness: 44
+wind speed: 4.52
+-------------------------
+city number:595
+city name: wangou
+latitude:42.06
+longitude:126.91
+temperature: 72.05
+humidity: 92
+cloudiness: 44
+wind speed: 3.62
+-------------------------
+city number:596
+city name: puerto leguizamo
+latitude:-0.19
+longitude:-74.78
+temperature: 75.38
+humidity: 92
+cloudiness: 44
+wind speed: 2.17
+-------------------------
+city number:597
+city name: waipawa
+latitude:-39.94
+longitude:176.59
+temperature: 51.98
+humidity: 97
+cloudiness: 92
+wind speed: 15.03
+-------------------------
+city number:598
+city name: omsukchan
+latitude:62.53
+longitude:155.8
+temperature: 52.7
+humidity: 100
+cloudiness: 92
+wind speed: 3.4
+-------------------------
+city number:599
+city name: riaba
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:600
+city name: kumbo
+latitude:6.21
+longitude:10.69
+temperature: 62.15
+humidity: 98
+cloudiness: 76
+wind speed: 2.39
+-------------------------
+city number:601
+city name: aden
+latitude:12.79
+longitude:45.03
+temperature: 78.44
+humidity: 93
+cloudiness: 36
+wind speed: 6.98
+-------------------------
+city number:602
+city name: beringovskiy
+latitude:63.05
+longitude:179.32
+temperature: 47.75
+humidity: 100
+cloudiness: 92
+wind speed: 20.74
+-------------------------
+city number:603
+city name: bollnas
+latitude:61.35
+longitude:16.39
+temperature: 56.84
+humidity: 87
+cloudiness: 8
+wind speed: 2.95
+-------------------------
+city number:604
+city name: westerland
+latitude:52.89
+longitude:4.93
+temperature: 66.2
+humidity: 77
+cloudiness: 90
+wind speed: 8.05
+-------------------------
+city number:605
+city name: wencheng
+latitude:27.79
+longitude:120.09
+temperature: 75.47
+humidity: 94
+cloudiness: 32
+wind speed: 2.73
+-------------------------
+city number:606
+city name: kultuk
+latitude:51.73
+longitude:103.71
+temperature: 58.28
+humidity: 92
+cloudiness: 64
+wind speed: 1.95
+-------------------------
+city number:607
+city name: buala
+latitude:-8.15
+longitude:159.59
+temperature: 81.5
+humidity: 90
+cloudiness: 92
+wind speed: 8.66
+-------------------------
+city number:608
+city name: nalut
+latitude:31.86
+longitude:10.98
+temperature: 77.99
+humidity: 50
+cloudiness: 36
+wind speed: 12.46
+-------------------------
+city number:609
+city name: san antero
+latitude:9.38
+longitude:-75.76
+temperature: 81.23
+humidity: 89
+cloudiness: 68
+wind speed: 10
+-------------------------
+city number:610
+city name: svetlyy
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:611
+city name: sergeyevka
+latitude:53.88
+longitude:67.42
+temperature: 50.99
+humidity: 82
+cloudiness: 88
+wind speed: 3.51
+-------------------------
+city number:612
+city name: saint-francois
+latitude:46.42
+longitude:3.91
+temperature: 69.8
+humidity: 68
+cloudiness: 0
+wind speed: 6.31
+-------------------------
+city number:613
+city name: grand-santi
+latitude:4.27
+longitude:-54.38
+temperature: 75.2
+humidity: 93
+cloudiness: 68
+wind speed: 3.18
+-------------------------
+city number:614
+city name: selma
+latitude:36.57
+longitude:-119.61
+temperature: 100.4
+humidity: 13
+cloudiness: 1
+wind speed: 12.75
+-------------------------
+city number:615
+city name: achisay
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:616
+city name: san pedro
+latitude:-33.68
+longitude:-59.66
+temperature: 44.87
+humidity: 83
+cloudiness: 0
+wind speed: 3.62
+-------------------------
+city number:617
+city name: falealupo
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:618
+city name: diamantino
+latitude:-14.4
+longitude:-56.44
+temperature: 77
+humidity: 59
+cloudiness: 12
+wind speed: 8.66
+-------------------------
+city number:619
+city name: gudari
+latitude:19.34
+longitude:83.79
+temperature: 75.74
+humidity: 83
+cloudiness: 24
+wind speed: 5.64
+-------------------------
+city number:620
+city name: mezen
+latitude:65.85
+longitude:44.24
+temperature: 48.92
+humidity: 71
+cloudiness: 68
+wind speed: 4.85
+-------------------------
+city number:621
+city name: anadyr
+latitude:64.73
+longitude:177.51
+temperature: 48.2
+humidity: 87
+cloudiness: 90
+wind speed: 11.18
+-------------------------
+city number:622
+city name: samut sakhon
+latitude:13.55
+longitude:100.27
+temperature: 80.6
+humidity: 78
+cloudiness: 40
+wind speed: 4.7
+-------------------------
+city number:623
+city name: katherine
+latitude:-14.47
+longitude:132.26
+temperature: 77
+humidity: 61
+cloudiness: 0
+wind speed: 5.82
+-------------------------
+city number:624
+city name: santa cruz
+latitude:36.97
+longitude:-122.03
+temperature: 93.2
+humidity: 18
+cloudiness: 1
+wind speed: 14.99
+-------------------------
+city number:625
+city name: el prat de llobregat
+latitude:41.32
+longitude:2.1
+temperature: 82.4
+humidity: 65
+cloudiness: 8
+wind speed: 3.36
+-------------------------
+city number:626
+city name: qaqortoq
+latitude:60.72
+longitude:-46.03
+temperature: 50
+humidity: 76
+cloudiness: 92
+wind speed: 3.36
+-------------------------
+city number:627
+city name: whyalla
+latitude:-33.04
+longitude:137.58
+temperature: 59
+humidity: 33
+cloudiness: 90
+wind speed: 24.16
+-------------------------
+city number:628
+city name: kafanchan
+latitude:9.58
+longitude:8.3
+temperature: 68.45
+humidity: 98
+cloudiness: 92
+wind speed: 3.06
+-------------------------
+city number:629
+city name: ibra
+latitude:22.69
+longitude:58.55
+temperature: 73.76
+humidity: 73
+cloudiness: 0
+wind speed: 2.17
+-------------------------
+city number:630
+city name: korem
+latitude:12.51
+longitude:39.52
+temperature: 56.03
+humidity: 94
+cloudiness: 44
+wind speed: 2.51
+-------------------------
+city number:631
+city name: gazanjyk
+latitude:39.24
+longitude:55.52
+temperature: 81.95
+humidity: 31
+cloudiness: 8
+wind speed: 5.64
+-------------------------
+city number:632
+city name: pousat
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:633
+city name: chapais
+latitude:49.78
+longitude:-74.86
+temperature: 69.8
+humidity: 83
+cloudiness: 40
+wind speed: 5.82
+-------------------------
+city number:634
+city name: gilgil
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:635
+city name: saint-georges
+latitude:46.12
+longitude:-70.67
+temperature: 67.64
+humidity: 90
+cloudiness: 8
+wind speed: 0.6
+-------------------------
+city number:636
+city name: rudnogorsk
+latitude:57.27
+longitude:103.75
+temperature: 57.65
+humidity: 77
+cloudiness: 24
+wind speed: 3.29
+-------------------------
+city number:637
+city name: luau
+latitude:-10.7
+longitude:22.23
+temperature: 61.7
+humidity: 35
+cloudiness: 0
+wind speed: 5.19
+-------------------------
+city number:638
+city name: eenhana
+latitude:-17.48
+longitude:16.34
+temperature: 60.53
+humidity: 61
+cloudiness: 0
+wind speed: 4.18
+-------------------------
+city number:639
+city name: honiara
+latitude:-9.43
+longitude:159.96
+temperature: 86
+humidity: 70
+cloudiness: 20
+wind speed: 2.24
+-------------------------
+city number:640
+city name: acarau
+lat: na
+lon: na
+temperature: na
+humidity: na
+cloudiness: na
+wind_speed: na
+-------------------------
+city number:641
+city name: port hedland
+latitude:-20.31
+longitude:118.58
+temperature: 53.6
+humidity: 62
+cloudiness: 0
+wind speed: 4.7
+-------------------------
+city number:642
+city name: kangaatsiaq
+latitude:68.31
+longitude:-53.46
+temperature: 42.62
+humidity: 91
+cloudiness: 76
+wind speed: 11.23
+-------------------------
+city number:643
+city name: socorro
+latitude:13.06
+longitude:121.41
+temperature: 72.23
+humidity: 100
+cloudiness: 92
+wind speed: 3.4
+-------------------------
+city number:644
+city name: abu zabad
+latitude:12.35
+longitude:29.25
+temperature: 69.53
+humidity: 97
+cloudiness: 76
+wind speed: 4.29
+-------------------------
+city number:645
+city name: chipinge
+latitude:-20.19
+longitude:32.62
+temperature: 49.37
+humidity: 83
+cloudiness: 0
+wind speed: 2.51
+-------------------------
+city number:646
+city name: cherskiy
+latitude:68.75
+longitude:161.3
+temperature: 54.68
+humidity: 48
+cloudiness: 0
+wind speed: 5.3
+-------------------------
+city number:647
+city name: iracoubo
+latitude:5.48
+longitude:-53.21
+temperature: 79.7
+humidity: 74
+cloudiness: 24
+wind speed: 6.64
